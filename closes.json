@@ -1843,7 +1843,16 @@
       "close": 150.96,
       "close_time_et": "2026-11-18 16:00:00 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "엔비디아는 3분기 매출 1,158억 달러로 예상을 웃돌았지만, 젠슨 황 CEO 사임 후 이사회가 복귀 불가를 밝히며 11월 18일 2.89% 하락한 150.96달러로 마감했습니다.",
+          "text_eng": "Nvidia beat Q3 revenue estimates at $115.84B but fell 2.89% to $150.96 on Nov 18 after the board chair said Jensen Huang will not return as CEO.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+          "published_at_et": "2026-11-18 04:19:00 EST",
+          "added_at_kst": "2026-11-19 21:09:06 KST"
+        }
+      ]
     },
     "TSLA": {
       "close": 383.72,
@@ -1999,7 +2008,16 @@
       "close": 54.67,
       "close_time_et": "2026-11-18 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "인텔 립부 탄 CEO는 18A 공정의 첫 외부 고객을 확보했다고 밝혔고 마이크로소프트가 EMIB 패키징 첫 공개 고객이라고 발표했습니다.",
+          "text_eng": "Intel CEO Lip-Bu Tan said the company signed its first external customer for 18A chips, and named Microsoft as its first EMIB packaging customer.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
+          "published_at_et": "2026-11-18 20:05:00 EST",
+          "added_at_kst": "2026-11-19 21:09:06 KST"
+        }
+      ]
     },
     "MSFT": {
       "close": 508.29,
