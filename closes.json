@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아는 시장 예상을 웃도는 실적과 1,300억 달러 가이던스를 내놨지만, 주가는 11/18 150.96달러(-2.89%)로 마감했습니다.",
+          "text_eng": "Nvidia beat expectations and guided Q4 revenue to $130B, but shares closed Nov 18 at $150.96 (-2.89%).",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidias-earnings-beat-fails-to-lift-chip-sector-as-macro-and-policy-risks-weigh-93CH-5039285",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-20 01:10:59 KST"
+        },
+        {
           "text_kor": "미국 선물이 앤트로픽 IPO 흥행 속에 급등했고 엔비디아는 프리마켓에서 1.5% 상승했다. 나스닥100 선물은 2.1% 올랐다.",
           "text_eng": "US futures jumped on Anthropic's IPO pricing, with Nvidia up 1.5% in premarket and Nasdaq-100 futures up 2.1%.",
           "source": "Investing.com",
@@ -2095,7 +2103,16 @@
       "close": 705.27,
       "close_time_et": "2026-11-18 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "마이크론이 약 4% 급등했다가 상승폭을 줄였으며, 2027년 메모리 공급이 2026년보다 더 빡빡할 것이라는 경영진 발언이 나왔습니다.",
+          "text_eng": "Micron jumped about 4% before paring gains after its CTO said 2027 memory supply will be tighter than 2026.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-pare-gains-leading-up-to-anthropics-first-trade-155941221.html",
+          "published_at_et": "2026-11-19 10:59:00 EST",
+          "added_at_kst": "2026-11-20 01:10:59 KST"
+        }
+      ]
     },
     "HOOD": {
       "close": 69.17,
