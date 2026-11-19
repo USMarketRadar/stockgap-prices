@@ -17381,7 +17381,8 @@
       "quote_type": "EQUITY",
       "exchange": "NasdaqCM",
       "short_name": "SELLAS Life Sciences Group, Inc",
-      "regular_market_previous_close": 19.15
+      "regular_market_previous_close": 19.15,
+      "news": "전날 급성골수성백혈병 치료 백신 GPS의 3상 REGAL 시험 성공 이후 1억 5,000만 달러 유상증자를 13.00달러에 확정했다. 공식 시간외는 17.98달러(+0.17%)인 반면, 토큰은 정규장 종가 17.95달러보다 15.99% 낮다.\nGlobeNewswire: https://www.globenewswire.com/news-release/2026/11/19/3406277/0/en/sellas-life-sciences-announces-pricing-of-150-0-million-underwritten-public-offering.html"
     },
     "WEN": {
       "stock_gap_symbol": "WEN",
@@ -22155,7 +22156,8 @@
       "quote_type": "EQUITY",
       "exchange": "NasdaqGS",
       "short_name": "Palo Alto Networks, Inc.",
-      "regular_market_previous_close": 309.29
+      "regular_market_previous_close": 309.29,
+      "news": "회계연도 1분기 실적이 예상치를 웃돌고 연간 가이던스를 상향했으며, AI 스타트업 Applied Compute를 45억 달러에 인수한다고 발표했다. 공식 시간외는 370.78달러(+9.08%)이고, 토큰은 정규장 종가 339.92달러보다 8.90% 높다.\nCNBC: https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html"
     },
     "FSV": {
       "stock_gap_symbol": "FSV",
@@ -22188,7 +22190,8 @@
       "quote_type": "EQUITY",
       "exchange": "NasdaqGS",
       "short_name": "CrowdStrike Holdings, Inc.",
-      "regular_market_previous_close": 219.58
+      "regular_market_previous_close": 219.58,
+      "news": "팔로알토의 실적 호조에 동조해 사이버보안주가 올랐고, 공식 시간외는 251.17달러(+5.97%)로 마감했다. 토큰은 정규장 종가 237.03달러보다 5.50% 높다.\nSeeking Alpha: https://seekingalpha.com/news/4674326-crowdstrike-advances-7-amid-cybersecurity-rally"
     },
     "ORCL": {
       "stock_gap_symbol": "ORCL",
