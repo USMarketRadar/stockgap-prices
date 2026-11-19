@@ -1853,6 +1853,14 @@
           "added_at_kst": "2026-11-20 01:10:59 KST"
         },
         {
+          "text_kor": "엔비디아·브로드컴·인텔 등 반도체주가 앤트로픽 상장 거래 시작 후 상승분을 반납하고 하락 전환했다. AMD는 Hunterbrook의 공매도 공개로 8% 하락했다.",
+          "text_eng": "Nvidia, Broadcom and Intel slid into the red after Anthropic shares began trading, erasing earlier gains; AMD fell 8% after Hunterbrook Media disclosed a short position.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+          "published_at_et": "2026-11-19 12:29:00 EST",
+          "added_at_kst": "2026-11-20 03:11:17 KST"
+        },
+        {
           "text_kor": "엔비디아가 약 4% 상승하고 마이크론도 5%대 오르는 등 반도체주가 앤트로픽 상장을 앞두고 강세를 보였다.",
           "text_eng": "Chip stocks rallied ahead of Anthropic's listing, with Nvidia up about 4% and Micron up more than 5%.",
           "source": "CBC Globe",
@@ -1890,7 +1898,16 @@
       "close": 383.72,
       "close_time_et": "2026-11-18 16:00:00 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "머스크가 중국 공장 생산을 계속 늘리겠다고 밝혀 테슬라가 약 1.9% 상승했다. 또한 매니토바 EV 리베이트 소송에서 법원 판단을 받았다.",
+          "text_eng": "Tesla rose about 1.9% after Musk said it will keep increasing China production; it also won a procedural ruling in its Manitoba EV rebate suit.",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63427524/whats-going-on-with-tesla-stock-thursday-2",
+          "published_at_et": "2026-11-19 09:40:00 EST",
+          "added_at_kst": "2026-11-20 03:11:17 KST"
+        }
+      ]
     },
     "QQQ": {
       "close": 659.51,
@@ -2120,6 +2137,14 @@
       "close_time_et": "2026-11-18 16:00:01 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "마이크론도 상승분을 반납했다. 마이크론 CTO는 2027년 메모리 공급이 2026년보다 더 타이트할 것이라고 밝혔다.",
+          "text_eng": "Micron also lost its gains; its CTO said memory supply in 2027 will be tighter than in 2026.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+          "published_at_et": "2026-11-19 12:29:00 EST",
+          "added_at_kst": "2026-11-20 03:11:17 KST"
+        },
         {
           "text_kor": "마이크론이 약 4% 급등했다가 상승폭을 줄였으며, 2027년 메모리 공급이 2026년보다 더 빡빡할 것이라는 경영진 발언이 나왔습니다.",
           "text_eng": "Micron jumped about 4% before paring gains after its CTO said 2027 memory supply will be tighter than 2026.",
