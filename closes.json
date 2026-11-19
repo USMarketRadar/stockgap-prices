@@ -1845,20 +1845,20 @@
       "currency": "USD",
       "news": [
         {
-          "text_kor": "엔비디아는 3분기 매출 1,158억 달러로 예상을 웃돌았지만, 젠슨 황 CEO 사임 후 이사회가 복귀 불가를 밝히며 11월 18일 2.89% 하락한 150.96달러로 마감했습니다.",
-          "text_eng": "Nvidia beat Q3 revenue estimates at $115.84B but fell 2.89% to $150.96 on Nov 18 after the board chair said Jensen Huang will not return as CEO.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-          "published_at_et": "2026-11-18 04:19:00 EST",
-          "added_at_kst": "2026-11-19 21:09:06 KST"
-        },
-        {
           "text_kor": "미국 선물이 앤트로픽 IPO 흥행 속에 급등했고 엔비디아는 프리마켓에서 1.5% 상승했다. 나스닥100 선물은 2.1% 올랐다.",
           "text_eng": "US futures jumped on Anthropic's IPO pricing, with Nvidia up 1.5% in premarket and Nasdaq-100 futures up 2.1%.",
           "source": "Investing.com",
           "url": "https://www.investing.com/news/stock-market-news/premarket-movers-palo-alto-soars-chip-stocks-rally-ahead-of-anthropic-debut-5038792",
           "published_at_et": "2026-11-19 07:39:00 EST",
           "added_at_kst": "2026-11-19 22:06:48 KST"
+        },
+        {
+          "text_kor": "엔비디아는 3분기 매출 1,158억 달러로 예상을 웃돌았지만, 젠슨 황 CEO 사임 후 이사회가 복귀 불가를 밝히며 11월 18일 2.89% 하락한 150.96달러로 마감했습니다.",
+          "text_eng": "Nvidia beat Q3 revenue estimates at $115.84B but fell 2.89% to $150.96 on Nov 18 after the board chair said Jensen Huang will not return as CEO.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+          "published_at_et": "2026-11-18 04:19:00 EST",
+          "added_at_kst": "2026-11-19 21:09:06 KST"
         }
       ]
     },
