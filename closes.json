@@ -1853,6 +1853,14 @@
           "added_at_kst": "2026-11-20 01:10:59 KST"
         },
         {
+          "text_kor": "엔비디아가 약 4% 상승하고 마이크론도 5%대 오르는 등 반도체주가 앤트로픽 상장을 앞두고 강세를 보였다.",
+          "text_eng": "Chip stocks rallied ahead of Anthropic's listing, with Nvidia up about 4% and Micron up more than 5%.",
+          "source": "CBC Globe",
+          "url": "https://cbcglobe.com/en/articles/2026/11/19/breaking-chip-stocks-surge-across-the-board-on-nyse-nvidia-u-d7264c59",
+          "published_at_et": "2026-11-19 10:20:45 EST",
+          "added_at_kst": "2026-11-20 02:12:33 KST"
+        },
+        {
           "text_kor": "미국 선물이 앤트로픽 IPO 흥행 속에 급등했고 엔비디아는 프리마켓에서 1.5% 상승했다. 나스닥100 선물은 2.1% 올랐다.",
           "text_eng": "US futures jumped on Anthropic's IPO pricing, with Nvidia up 1.5% in premarket and Nasdaq-100 futures up 2.1%.",
           "source": "Investing.com",
@@ -2033,6 +2041,14 @@
       "close_time_et": "2026-11-18 16:00:01 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "인텔 CEO 립부 탄이 첫 외부 18A 파운드리 고객을 확보했다고 밝혀 주가가 약 4.6% 상승했다. 고객사와 주문 규모는 공개되지 않았다.",
+          "text_eng": "Intel stock rose about 4.6% after CEO Lip-Bu Tan said it signed its first outside 18A foundry customer; the customer and order size were not disclosed.",
+          "source": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/19/why-intel-stock-is-gaining-today/",
+          "published_at_et": "2026-11-19 11:39:00 EST",
+          "added_at_kst": "2026-11-20 02:12:33 KST"
+        },
         {
           "text_kor": "인텔이 첫 외부 18A 파운드리 고객을 확보하고 마이크로소프트와 Azure 협력을 확대하며 주가가 약 7% 상승했습니다.",
           "text_eng": "Intel rose about 7% after signing its first outside 18A foundry customer and expanding its Azure partnership with Microsoft, including a multi-year Xeon supply deal.",
