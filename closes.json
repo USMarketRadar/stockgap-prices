@@ -16578,7 +16578,14 @@
       "close": 2.71,
       "close_time_et": "2026-11-18 16:00:00 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "정규장에서 5.57% 내린 뒤 공식 시간외는 2.83달러(+4.43%)로 마감했다. 토큰은 정규장 종가 2.71달러보다 7.38% 높다.",
+          "text_eng": "After falling 5.57% in the regular session, official after-hours settled at $2.83 (+4.43%). The token is 7.38% above the $2.71 regular close.",
+          "source": "Finviz",
+          "url": "https://finviz.com/stock?t=SNXX"
+        }
+      ]
     },
     "VVV": {
       "close": 33.37,
