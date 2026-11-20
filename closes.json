@@ -1971,7 +1971,16 @@
       "close": 755.16,
       "close_time_et": "2026-11-19 16:00:00 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "샌디스크가 8대1 주식분할 후 첫 거래일을 맞았다. 목요일 종가 755.16달러는 분할 조정 기준가 94.40달러에 해당한다.",
+          "text_eng": "Sandisk began trading on a post 8-for-1 split basis; Thursday's $755.16 close equals a split-adjusted reference of $94.40.",
+          "source": "FinanceFeeds",
+          "url": "https://financefeeds.com/ko/sandisk-sndk-stock-94-first-day-after-8-for-1-split/",
+          "published_at_et": "2026-11-20 02:00:00 EST",
+          "added_at_kst": "2026-11-20 19:14:56 KST"
+        }
+      ]
     },
     "LITE": {
       "close": 535.15,
@@ -2098,6 +2107,14 @@
       "close_time_et": "2026-11-19 16:00:01 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "미국 AI 반도체주가 프리마켓에서 하락했다. AMD 5%, 인텔 4.5%, 엔비디아 2% 하락했다.",
+          "text_eng": "US AI chip stocks fell in premarket trading: AMD -5%, Intel -4.5%, Nvidia -2%.",
+          "source": "PANews",
+          "url": "https://www.panewslab.com/ko/articles/01a1f850-8a62-75e2-9f44-28c933ad40dd",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-20 19:14:56 KST"
+        },
         {
           "text_kor": "인텔 CEO 립부 탄이 첫 외부 18A 파운드리 고객을 확보했다고 밝혀 주가가 약 4.6% 상승했다. 고객사와 주문 규모는 공개되지 않았다.",
           "text_eng": "Intel stock rose about 4.6% after CEO Lip-Bu Tan said it signed its first outside 18A foundry customer; the customer and order size were not disclosed.",
