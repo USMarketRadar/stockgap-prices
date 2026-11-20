@@ -13514,7 +13514,16 @@
       "close": 97.17,
       "close_time_et": "2026-11-19 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "상장 첫날 17.07% 급등한 97.17달러에 마감했으나 나머지 AI·기술주는 급락했다. 토큰은 정규장 종가보다 5.89% 낮다.",
+          "text_eng": "Shares jumped 17.07% to close at $97.17 on the first day of trading, while other AI and tech stocks sold off sharply. The token is 5.89% below the regular close.",
+          "source": "Source",
+          "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500007",
+          "published_at_et": "2026-11-19 16:27:52 EST",
+          "added_at_kst": "2026-11-20 14:12:17 KST"
+        }
+      ]
     },
     "CF": {
       "close": 115.76,
@@ -15450,6 +15459,14 @@
           "added_at_kst": "2026-11-19 18:19:38 KST"
         },
         {
+          "text_kor": "19일 필라델피아 반도체지수가 2.42% 하락했고 SOXL은 8.04% 내린 45.30달러에 마감했다. 토큰은 정규장 종가보다 7.22% 낮다.",
+          "text_eng": "The Philadelphia Semiconductor Index fell 2.42% on the 19th and SOXL closed down 8.04% at $45.30. The token is 7.22% below the regular close.",
+          "source": "Source",
+          "url": "https://www.fnnews.com/news/202611200659169234",
+          "published_at_et": "2026-11-19 16:59:13 EST",
+          "added_at_kst": "2026-11-20 14:12:17 KST"
+        },
+        {
           "text_kor": "앤트로픽이 사상 최대 규모 IPO를 주당 83달러에 확정하면서 글로벌 반도체주가 반등했다. 프리마켓에서 마이크론과 SK하이닉스 ADR은 5% 넘게, 인텔·램리서치 등은 4~5% 올랐다.",
           "text_eng": "Global chip stocks rallied after Anthropic priced the largest IPO on record at $83 a share. In premarket, Micron and SK hynix ADR rose more than 5%, while Intel and Lam Research gained 4-5%.",
           "source": "Investing.com",
@@ -16761,6 +16778,14 @@
           "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-5039425",
           "published_at_et": null,
           "added_at_kst": "2026-11-20 10:11:24 KST"
+        },
+        {
+          "text_kor": "트렌드포스가 내년 1분기 낸드 계약가 하락을 전망하면서 샌디스크 약세 우려가 이어졌다. 토큰은 정규장 종가보다 13.62% 낮다.",
+          "text_eng": "TrendForce forecast lower NAND contract prices from Q1 next year, keeping pressure on Sandisk. The token is 13.62% below the regular close.",
+          "source": "Source",
+          "url": "https://newspim.com/news/view/20261120000610",
+          "published_at_et": "2026-11-19 22:28:00 EST",
+          "added_at_kst": "2026-11-20 14:12:17 KST"
         },
         {
           "text_kor": "정규장에서 5.57% 내린 뒤 공식 시간외는 2.83달러(+4.43%)로 마감했다. 토큰은 정규장 종가 2.71달러보다 7.38% 높다.",
