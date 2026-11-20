@@ -15468,6 +15468,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "미국의 대중 반도체 규제 강화로 반도체주가 조정을 받았으며, SOX 지수는 19일 2.41% 하락했다. 엔비디아 실적 등 AI 수요가 반등의 버팀목으로 꼽힌다.",
+          "text_eng": "Semiconductor stocks corrected on tighter US chip curbs on China, with the SOX index down 2.41% on Nov 19; AI demand, including Nvidia's results, is seen as support for a rebound.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611201802392678",
+          "published_at_et": "2026-11-20 04:02:08 EST",
+          "added_at_kst": "2026-11-20 20:10:33 KST"
+        },
+        {
           "text_kor": "정규장 종료 후 반도체주가 올랐고, 공식 시간외는 52.20달러(+5.97%)로 마감했다. 토큰은 정규장 종가 49.26달러보다 9.09% 높다.",
           "text_eng": "Semiconductor shares rose after the close, and official after-hours settled at $52.20 (+5.97%). The token is 9.09% above the $49.26 regular close.",
           "source": "CNBC",
