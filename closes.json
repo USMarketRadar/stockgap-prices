@@ -15548,6 +15548,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "필라델피아 반도체지수가 약 10% 폭락하고 엔비디아·마이크론 등이 급락하면서 SOXL은 정규장에서 30.88달러로 마감했다. 토큰은 이 종가보다 8.06% 높다.",
+          "text_eng": "The Philadelphia Semiconductor Index fell about 10% with Nvidia and Micron sharply lower, and SOXL closed the regular session at $30.88. The token is 8.06% above that close.",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
+          "published_at_et": "2026-11-21 01:04:16 EST",
+          "added_at_kst": "2026-11-21 10:06:18 KST"
+        },
+        {
           "text_kor": "미국의 대중 반도체 규제 강화로 반도체주가 조정을 받았으며, SOX 지수는 19일 2.41% 하락했다. 엔비디아 실적 등 AI 수요가 반등의 버팀목으로 꼽힌다.",
           "text_eng": "Semiconductor stocks corrected on tighter US chip curbs on China, with the SOX index down 2.41% on Nov 19; AI demand, including Nvidia's results, is seen as support for a rebound.",
           "source": "파이낸셜뉴스",
