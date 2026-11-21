@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "20일(현지시간) 엔비디아가 SEC의 회계 처리 조사 보도 이후 14.01% 급락했고, 필라델피아반도체지수는 10.73% 폭락했다.",
+          "text_eng": "Nvidia fell 14.01% on Nov 20 after reports the SEC is examining its accounting, and the Philadelphia Semiconductor Index plunged 10.73%.",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
+          "published_at_et": "2026-11-20 16:04:00 EST",
+          "added_at_kst": "2026-11-21 09:08:50 KST"
+        },
+        {
           "text_kor": "엔비디아는 사상 최대 3분기 실적(매출 1158억달러)을 냈지만, 젠슨 황 전 CEO 사임에 따른 경영 공백 우려로 19일 주가가 3.30% 하락한 145.98달러에 마감했다.",
           "text_eng": "Nvidia posted record Q3 results (revenue $115.8B), but concerns over the leadership vacuum after Jensen Huang's departure pushed shares down 3.30% to $145.98 on Nov. 19.",
           "source": "인포스탁데일리",
