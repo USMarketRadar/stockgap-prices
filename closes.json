@@ -13461,7 +13461,16 @@
       "close": 7.59,
       "close_time_et": "2026-11-20 16:00:02 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "FDA가 뒤쉔 근이영양증 치료제 deramiocel을 임상 데이터 문제를 이유로 두 번째로 거부해 시간외 주가가 약 80% 급락했다.",
+          "text_eng": "The FDA rejected its Duchenne muscular dystrophy drug deramiocel a second time, citing clinical trial data-integrity problems; shares fell about 80% after hours.",
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/capricor-gets-second-fda-rejection-for-muscular-dystrophy-drug",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-21 18:07:57 KST"
+        }
+      ]
     },
     "MELI": {
       "close": 1355.0,
@@ -17516,7 +17525,16 @@
       "close": 194.82,
       "close_time_et": "2026-11-20 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "크라우드스트라이크가 인수를 협의 중이라는 보도에 시간외 주가가 급등했다.",
+          "text_eng": "Shares jumped after hours on a report that CrowdStrike is in talks to acquire the company.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+          "published_at_et": "2026-11-20 16:11:32 EST",
+          "added_at_kst": "2026-11-21 18:07:57 KST"
+        }
+      ]
     },
     "KBR": {
       "close": 31.44,
