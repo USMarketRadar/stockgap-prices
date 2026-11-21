@@ -19005,6 +19005,37 @@
       "close_time_et": "2026-11-20 16:00:01 EST",
       "currency": "USD",
       "news": []
+    },
+    "BTC": {
+      "close": null,
+      "close_time_et": null,
+      "currency": "USD",
+      "news": [
+        {
+          "text_kor": "비트코인이 장중 5만5000달러대(2024년 9월 이후 최저)까지 떨어진 뒤 저점 대비 9% 넘게 반등해 6만달러선을 회복했다. 최근 24시간 동안 약 18억달러의 레버리지 포지션이 청산됐으며, 미국 증시가 다시 열리는 23일이 반등 지속 여부의 분기점으로 거론됐다.",
+          "text_eng": "Bitcoin recovered the $60,000 level after falling as low as the mid-$55,000s, its weakest since September 2024, bouncing more than 9% off the low. About $1.8 billion in leveraged positions was liquidated over 24 hours, and Monday's U.S. stock open is seen as the next test for whether the rebound holds.",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1169043",
+          "published_at_et": "2026-11-21 14:12:53 EST",
+          "added_at_kst": "2026-11-22 05:05:45 KST"
+        },
+        {
+          "text_kor": "비트코인이 6만달러 아래로 내려가 JP모건이 추정한 채굴 생산비 8만6000달러와의 격차가 2만6000달러를 넘어섰다. JP모건은 고비용 채굴업체가 운영 자금이나 AI 사업 전환을 위해 보유 비트코인을 매도할 수 있다고 봤고, ETF 유출의 상당 부분은 개인 투자자가 이끌었을 가능성이 크다고 분석했다.",
+          "text_eng": "Bitcoin slipped below $60,000, widening the gap with JPMorgan's estimated $86,000 production cost to more than $26,000. JPMorgan said higher-cost miners may sell holdings to raise cash or fund a shift into AI, and that retail investors likely drove most of the crypto ETF outflows.",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/breaking/441933",
+          "published_at_et": "2026-11-20 19:40:44 EST",
+          "added_at_kst": "2026-11-22 05:05:45 KST"
+        },
+        {
+          "text_kor": "비트코인이 20일(현지시간) 4개월 만에 6만달러선 아래로 내려가 장중 5만8678달러까지 떨어졌고, 7주 연속 하락으로 2022년 이후 최장 약세를 기록했다. 전날 현물 ETF에서 5억8200만달러가 순유출됐으며, 연준 금리 인상 우려와 앤트로픽 IPO에 따른 자금 이탈이 배경으로 거론됐다.",
+          "text_eng": "Bitcoin fell below $60,000 for the first time in four months on Nov. 20, dropping as low as $58,678.48 and extending its losing streak to seven weeks, the longest since 2022. Spot bitcoin ETFs saw $582 million in net outflows the previous day, with Fed rate-hike concerns and the Anthropic IPO cited as factors.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261121005500091",
+          "published_at_et": "2026-11-20 14:00:32 EST",
+          "added_at_kst": "2026-11-22 05:05:45 KST"
+        }
+      ]
     }
   }
 }
