@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아가 젠슨 황 CEO 복귀 발표로 정규장 개장 직후 30% 넘게 급등했고, 마이크론(16%) 등 반도체주도 동반 상승했다.",
+          "text_eng": "Nvidia surged over 30% at the open after announcing Jensen Huang's return as CEO, with Micron (+16%) and other chip stocks rising in tandem.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611235357i",
+          "published_at_et": "2026-11-23 09:47:00 EST",
+          "added_at_kst": "2026-11-24 02:07:59 KST"
+        },
+        {
           "text_kor": "지난 20일 SEC 회계 조사 보도 등으로 14.01% 급락한 엔비디아는 23일 개장 전 시간외에서 134.60달러(+7.23%)로 반등했고, 나스닥100 선물도 2.4% 올랐다.",
           "text_eng": "After plunging 14.01% on Nov 20 on reports of an SEC accounting probe, Nvidia rebounded to $134.60 (+7.23%) in pre-market trading on Nov 23, and Nasdaq 100 futures rose about 2.4%.",
           "source": "신경제신문",
@@ -15613,6 +15621,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아 젠슨 황 CEO 복귀 소식에 반도체 3배 레버리지 ETF SOXL이 장중 약 39% 급등했다.",
+          "text_eng": "SOXL surged about 39.4% in morning trading after Nvidia reinstated Jensen Huang as CEO.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-surging-today-93CH-5045960",
+          "published_at_et": "2026-11-23 10:08:00 EST",
+          "added_at_kst": "2026-11-24 02:07:59 KST"
+        },
+        {
           "text_kor": "23일 뉴욕증시 프리마켓에서 엔비디아가 9% 급등하고 나스닥100 선물이 3.6% 오르는 등 반도체주가 저가 매수세로 반등했다. AI 투자 수익성 우려는 여전하다.",
           "text_eng": "In Nov 23 pre-market trading Nvidia jumped 9% and Nasdaq 100 futures rose 3.6% as chip stocks rebounded on dip buying, though AI profitability concerns remain.",
           "source": "뉴스핌",
@@ -19099,6 +19115,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 월요일 하루 약 3.94% 급등해 6만 3,000달러를 회복했고, 약 4억 4,000만 달러 규모 숏 포지션이 청산됐다. 엔비디아 젠슨 황 CEO 복귀로 위험선호 심리가 살아났다.",
+          "text_eng": "Bitcoin jumped about 3.94% on Monday to reclaim $63,000, liquidating roughly $440M in shorts as Nvidia's Jensen Huang return revived risk appetite.",
+          "source": "COINOTAG",
+          "url": "https://kr.coinotag.com/bitcoin-btc-reclaims-63000-nvidia-huang-short-squeeze-4",
+          "published_at_et": "2026-11-23 10:16:00 EST",
+          "added_at_kst": "2026-11-24 02:07:59 KST"
+        },
         {
           "text_kor": "비트코인이 한때 5만 5천 달러대까지 급락했다가 6만 달러선을 회복했으며, 22일 오후 3시 59분 기준 약 58,901달러에 거래됐다.",
           "text_eng": "Bitcoin rebounded to the $60,000 area after briefly dropping to the mid-$55,000s, trading around $58,901 as of 3:59 PM KST on Nov. 22.",
