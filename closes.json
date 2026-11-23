@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "SEC 조사 보도 속에 엔비디아가 18년 만의 최악의 한 주를 보내며 AI 투자 불확실성이 커졌다.",
+          "text_eng": "Amid reports of an SEC probe, Nvidia had its worst week in 18 years, deepening uncertainty over AI investment.",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2651350",
+          "published_at_et": "2026-11-22 02:47:00 EST",
+          "added_at_kst": "2026-11-23 09:10:45 KST"
+        },
+        {
           "text_kor": "SEC가 엔비디아 회계 처리를 조사 중이라는 로이터 보도에 엔비디아가 20일 14.01% 급락한 125.53달러에 마감했고 필라델피아반도체지수는 10.73% 내렸다.",
           "text_eng": "After Reuters reported the SEC is probing Nvidia's accounting, the stock fell 14.01% to $125.53 on Nov 20 and the Philadelphia Semiconductor Index dropped 10.73%.",
           "source": "마켓타임스",
@@ -15573,6 +15581,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "한국 투자자의 올해 하반기 미국 주식 손실이 약 68조 원으로 추정되며, 이 중 반도체 3배 레버리지 ETF 한 종목이 12조 원 넘게 차지했다.",
+          "text_eng": "Korean investors are estimated to have lost about 68 trillion won on US stocks in 2H, with a single triple-leveraged chip ETF accounting for over 12 trillion won.",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/market/2026/11/22/korean-investors-lose-68-trillion-won-on-us-stocks-in",
+          "published_at_et": "2026-11-22 06:36:00 EST",
+          "added_at_kst": "2026-11-23 09:10:45 KST"
+        },
+        {
           "text_kor": "엔비디아 SEC 회계 조사 보도와 AI 투자 우려로 반도체주가 급락하며 SOXL이 20일 약 32% 하락했다.",
           "text_eng": "Chip stocks plunged on reports of an SEC accounting probe of Nvidia and AI-spending worries, sending SOXL down about 32% on Nov 20.",
           "source": "Investing.com",
@@ -19019,6 +19035,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 한때 5만 5천 달러대까지 급락했다가 6만 달러선을 회복했으며, 22일 오후 3시 59분 기준 약 58,901달러에 거래됐다.",
+          "text_eng": "Bitcoin rebounded to the $60,000 area after briefly dropping to the mid-$55,000s, trading around $58,901 as of 3:59 PM KST on Nov. 22.",
+          "source": "FinTalk",
+          "url": "https://www.fintalk.co.kr/news/735d8cb5575d4149baa2b6c5",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-23 09:10:46 KST"
+        },
         {
           "text_kor": "미국 비트코인 현물 ETF에서 11월 16~20일 한 주간 12억 4,500만 달러가 순유출돼 3주 연속 10억 달러를 넘는 유출을 기록했다.",
           "text_eng": "US spot Bitcoin ETFs saw $1.245B in net outflows over Nov 16-20, the third straight week above $1B.",
