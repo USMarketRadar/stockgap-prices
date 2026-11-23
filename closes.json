@@ -15605,6 +15605,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "23일 뉴욕증시 프리마켓에서 엔비디아가 9% 급등하고 나스닥100 선물이 3.6% 오르는 등 반도체주가 저가 매수세로 반등했다. AI 투자 수익성 우려는 여전하다.",
+          "text_eng": "In Nov 23 pre-market trading Nvidia jumped 9% and Nasdaq 100 futures rose 3.6% as chip stocks rebounded on dip buying, though AI profitability concerns remain.",
+          "source": "뉴스핌",
+          "url": "https://newspim.com/news/view/20261123001179",
+          "published_at_et": "2026-11-23 07:02:00 EST",
+          "added_at_kst": "2026-11-23 22:13:02 KST"
+        },
+        {
           "text_kor": "필라델피아 반도체지수가 10.7% 급락하며 2001년 9월 이후 최대 주간 낙폭을 기록했습니다. 3배 레버리지 반도체 ETF에는 국내 투자자 순매수가 약 7.6억달러 몰렸지만 주가는 반토막 났습니다.",
           "text_eng": "The Philadelphia Semiconductor Index fell 10.7%, its biggest weekly drop since September 2001. Korean investors bought about $760M net of 3x semiconductor ETFs, whose prices roughly halved.",
           "source": "THE Biz",
