@@ -15653,6 +15653,14 @@
           "added_at_kst": "2026-11-24 06:07:56 KST"
         },
         {
+          "text_kor": "젠슨 황 복귀 소식에 반도체 ETF가 동반 급등했으며 SOXL은 11월 23일 약 40% 상승 마감했다.",
+          "text_eng": "Semiconductor ETFs rallied on Huang's return; SOXL closed up about 40% on Nov 23.",
+          "source": "디지털타임스",
+          "url": "https://www.dt.co.kr/article/12096816",
+          "published_at_et": "2026-11-23 09:40:00 EST",
+          "added_at_kst": "2026-11-24 07:06:50 KST"
+        },
+        {
           "text_kor": "23일 뉴욕증시 프리마켓에서 엔비디아가 9% 급등하고 나스닥100 선물이 3.6% 오르는 등 반도체주가 저가 매수세로 반등했다. AI 투자 수익성 우려는 여전하다.",
           "text_eng": "In Nov 23 pre-market trading Nvidia jumped 9% and Nasdaq 100 futures rose 3.6% as chip stocks rebounded on dip buying, though AI profitability concerns remain.",
           "source": "뉴스핌",
@@ -19139,6 +19147,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 5만5000달러 저점에서 17% 반등해 6만4500달러를 넘었으나 상승분을 반납하며 6만1000달러대로 밀렸다.",
+          "text_eng": "Bitcoin rebounded 17% from a $55,000 low to above $64,500 before giving back gains to the $61,000 range.",
+          "source": "블록미디어(코인코스트)",
+          "url": "https://coincost.co.kr/news/20261124-551b1d",
+          "published_at_et": "2026-11-23 16:01:00 EST",
+          "added_at_kst": "2026-11-24 07:06:50 KST"
+        },
         {
           "text_kor": "엔비디아 이사회가 젠슨 황의 CEO 복귀를 결정한 23일(현지시간) 비트코인은 장중 6만3800달러까지 올라 하루 약 4% 상승했다.",
           "text_eng": "After Nvidia's board reinstated Jensen Huang as CEO on Nov 23 (US time), Bitcoin rose as high as $63,800, up about 4% on the day.",
