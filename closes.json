@@ -1853,6 +1853,14 @@
           "added_at_kst": "2026-11-24 02:07:59 KST"
         },
         {
+          "text_kor": "엔비디아 이사회가 만장일치로 젠슨 황을 CEO·사장·이사로 11일 만에 복귀시켰으며, 발표 직후 주가가 30% 안팎 급등하고 AI·반도체주가 동반 상승했다.",
+          "text_eng": "Nvidia's board unanimously reinstated Jensen Huang as CEO, president and director after 11 days; the stock jumped roughly 30% and AI/chip shares rallied.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261123174351072",
+          "published_at_et": "2026-11-23 09:22:54 EST",
+          "added_at_kst": "2026-11-24 03:07:13 KST"
+        },
+        {
           "text_kor": "지난 20일 SEC 회계 조사 보도 등으로 14.01% 급락한 엔비디아는 23일 개장 전 시간외에서 134.60달러(+7.23%)로 반등했고, 나스닥100 선물도 2.4% 올랐다.",
           "text_eng": "After plunging 14.01% on Nov 20 on reports of an SEC accounting probe, Nvidia rebounded to $134.60 (+7.23%) in pre-market trading on Nov 23, and Nasdaq 100 futures rose about 2.4%.",
           "source": "신경제신문",
@@ -19130,6 +19138,14 @@
           "url": "https://www.fintalk.co.kr/news/735d8cb5575d4149baa2b6c5",
           "published_at_et": null,
           "added_at_kst": "2026-11-23 09:10:46 KST"
+        },
+        {
+          "text_kor": "비트코인이 주말 5만5130달러 2년 최저점에서 반등해 6만1500달러 부근에서 거래됐고, 미 증시 선물 회복이 지지 요인이다.",
+          "text_eng": "Bitcoin rebounded from a two-year low of $55,130 to around $61,500 as US equity futures recovered.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
+          "published_at_et": "2026-11-23 06:51:00 EST",
+          "added_at_kst": "2026-11-24 03:07:13 KST"
         },
         {
           "text_kor": "비트코인이 21일 2024년 9월 이후 최저인 5만5130달러까지 떨어진 뒤 6만1000달러를 회복했다. 18억달러 레버리지 청산 이후 반등했으나 미국 현물 ETF 자금 유출과 이번 주 PCE 발표가 변수다.",
