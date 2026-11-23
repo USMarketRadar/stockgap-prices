@@ -15629,6 +15629,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아 이사회가 젠슨 황을 CEO로 즉시 복귀시키면서 반도체지수가 급등했고, 3배 레버리지 ETF인 SOXL은 장중 약 39% 상승했다.",
+          "text_eng": "After Nvidia's board reinstated Jensen Huang as CEO, the semiconductor index surged and the 3x leveraged SOXL jumped about 39% intraday.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611245389i",
+          "published_at_et": "2026-11-23 10:37:13 EST",
+          "added_at_kst": "2026-11-24 05:06:45 KST"
+        },
+        {
           "text_kor": "엔비디아 젠슨 황 CEO 복귀 소식에 반도체 3배 레버리지 ETF SOXL이 장중 약 39% 급등했다.",
           "text_eng": "SOXL surged about 39.4% in morning trading after Nvidia reinstated Jensen Huang as CEO.",
           "source": "Investing.com",
