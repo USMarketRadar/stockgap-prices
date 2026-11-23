@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "지난 20일 SEC 회계 조사 보도 등으로 14.01% 급락한 엔비디아는 23일 개장 전 시간외에서 134.60달러(+7.23%)로 반등했고, 나스닥100 선물도 2.4% 올랐다.",
+          "text_eng": "After plunging 14.01% on Nov 20 on reports of an SEC accounting probe, Nvidia rebounded to $134.60 (+7.23%) in pre-market trading on Nov 23, and Nasdaq 100 futures rose about 2.4%.",
+          "source": "신경제신문",
+          "url": "http://www.theneweconomy.kr/news/articleView.html?idxno=16160",
+          "published_at_et": "2026-11-22 19:08:00 EST",
+          "added_at_kst": "2026-11-23 10:08:13 KST"
+        },
+        {
           "text_kor": "SEC 조사 보도 속에 엔비디아가 18년 만의 최악의 한 주를 보내며 AI 투자 불확실성이 커졌다.",
           "text_eng": "Amid reports of an SEC probe, Nvidia had its worst week in 18 years, deepening uncertainty over AI investment.",
           "source": "이투데이",
@@ -15581,6 +15589,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "필라델피아 반도체지수가 20일 10.73% 급락한 뒤 선물 반등으로 반도체주 저가 매수 기대가 커지고 있다.",
+          "text_eng": "After the Philadelphia Semiconductor Index fell 10.73% on Nov 20, a futures rebound is fueling dip-buying hopes in chip stocks.",
+          "source": "신경제신문",
+          "url": "http://www.theneweconomy.kr/news/articleView.html?idxno=16160",
+          "published_at_et": "2026-11-22 19:08:00 EST",
+          "added_at_kst": "2026-11-23 10:08:13 KST"
+        },
+        {
           "text_kor": "한국 투자자의 올해 하반기 미국 주식 손실이 약 68조 원으로 추정되며, 이 중 반도체 3배 레버리지 ETF 한 종목이 12조 원 넘게 차지했다.",
           "text_eng": "Korean investors are estimated to have lost about 68 trillion won on US stocks in 2H, with a single triple-leveraged chip ETF accounting for over 12 trillion won.",
           "source": "Seoul Economic Daily",
@@ -19042,6 +19058,14 @@
           "url": "https://www.fintalk.co.kr/news/735d8cb5575d4149baa2b6c5",
           "published_at_et": null,
           "added_at_kst": "2026-11-23 09:10:46 KST"
+        },
+        {
+          "text_kor": "비트코인이 21일 한때 5만5251달러까지 밀렸다가 저가 매수와 대규모 청산 후 매도 압력 완화로 6만달러선을 회복했다. 미국 증시 약세와 중동 긴장으로 공포·탐욕지수는 8점의 '극단적 공포'다.",
+          "text_eng": "Bitcoin recovered the $60,000 level after dipping to $55,251 on Nov 21, helped by dip-buying and easing selling pressure after heavy liquidations. US equity weakness and Middle East tensions keep the Fear & Greed index at 8 (extreme fear).",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261123080021589",
+          "published_at_et": "2026-11-22 18:26:00 EST",
+          "added_at_kst": "2026-11-23 10:08:13 KST"
         },
         {
           "text_kor": "미국 비트코인 현물 ETF에서 11월 16~20일 한 주간 12억 4,500만 달러가 순유출돼 3주 연속 10억 달러를 넘는 유출을 기록했다.",
