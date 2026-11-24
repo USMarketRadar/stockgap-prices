@@ -16023,6 +16023,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "4분기 매출이 50% 늘어 사상 최대를 기록했지만 메모리 공급난이 2028년 하반기까지 이어질 것이라는 전망과 가이던스 부진으로 시간외에서 7% 하락했습니다.",
+          "text_eng": "Q4 revenue rose 50% to a record, but the CEO said memory supply constraints will last until at least late 2028 and guidance disappointed, sending shares down about 7% after hours.",
+          "source": "Source",
+          "url": "https://www.yna.co.kr/view/AKR20261124120300009?section=market-plus%2Fall",
+          "published_at_et": "2026-11-24 00:28:00 EST",
+          "added_at_kst": "2026-11-24 15:10:32 KST"
+        },
+        {
           "text_kor": "4분기 AI 서버 매출이 95% 급증하고 내년 전망도 상향했지만 시장 기대에 못 미쳤다는 평가에 시간외에서 6%대 하락했다.",
           "text_eng": "AI server revenue jumped 95% and guidance was raised, but results fell short of elevated expectations and shares dropped about 6% after hours.",
           "source": "Source",
@@ -19236,6 +19244,14 @@
           "url": "https://www.news1.kr/finance/blockchain-fintech/6363722",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:19 KST"
+        },
+        {
+          "text_kor": "미국 현물 비트코인 ETF에서 지난주 17억9000만달러가 순유출돼 4주 연속 순유출(누적 43억4000만달러)을 기록했고, IBIT가 유출의 약 76%를 차지했습니다.",
+          "text_eng": "US spot Bitcoin ETFs saw $1.79B of net outflows last week, a fourth straight week of outflows (about $4.34B cumulative), with BlackRock's IBIT accounting for roughly 76%.",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717721",
+          "published_at_et": "2026-11-23 23:35:00 EST",
+          "added_at_kst": "2026-11-24 15:10:32 KST"
         },
         {
           "text_kor": "젠슨 황 엔비디아 CEO 복귀 소식에 비트코인이 한때 6만4000달러를 넘었으나 미국 거래시간대 매도세로 상승분을 반납하고 6만1000달러대로 내려왔다.",
