@@ -15695,6 +15695,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "SOXL이 24일 정규장 초반 39.4% 급등했다. 엔비디아 이사회가 젠슨 황의 CEO 복귀를 결정하며 반도체 업종 매도세가 반전됐다.",
+          "text_eng": "SOXL jumped 39.4% early in the Nov 23 US session after Nvidia's board reinstated Jensen Huang as CEO, reversing the chip-sector selloff.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187552",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 19:13:01 KST"
+        },
+        {
           "text_kor": "젠슨 황 복귀 소식에 반도체 3배 레버리지 ETF SOXL이 장중 37% 넘게 급등했다. 직전 거래일 31.83% 하락분을 모두 회복하지는 못했다.",
           "text_eng": "SOXL surged over 37% intraday on Huang's return, though it did not fully recover the prior session's 31.83% drop.",
           "source": "메트로신문",
@@ -19285,6 +19293,14 @@
           "url": "https://www.news1.kr/finance/blockchain-fintech/6363722",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:19 KST"
+        },
+        {
+          "text_kor": "24일 비트코인은 6만237달러로 1.50% 하락했고, 미국 비트코인·이더리움 현물 ETF에서 6억5460만달러가 순유출됐다.",
+          "text_eng": "Bitcoin fell 1.5% to about $60,237 on Nov 24 as US spot Bitcoin and Ether ETFs saw $654.6M in net outflows.",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1169966",
+          "published_at_et": "2026-11-24 04:00:40 EST",
+          "added_at_kst": "2026-11-24 19:13:01 KST"
         },
         {
           "text_kor": "미국 현물 비트코인 ETF에서 23일 5억7000만달러가 순유출돼 5거래일 연속 유출을 기록했다. 비트코인은 6만달러 부근에서 등락 중이다.",
