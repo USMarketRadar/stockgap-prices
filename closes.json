@@ -1853,6 +1853,14 @@
           "added_at_kst": "2026-11-24 22:09:19 KST"
         },
         {
+          "text_kor": "젠슨 황 CEO 복귀로 전날 31.5% 급등했던 엔비디아가 24일 차익실현과 지배구조·AI 과열 우려로 6%대 하락 출발했다.",
+          "text_eng": "Nvidia, which jumped 31.5% the previous day on Jensen Huang's return as CEO, opened down over 6% on Nov 24 on profit-taking and governance/AI-overheating worries.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124184200072?section=international%2Fall",
+          "published_at_et": "2026-11-24 10:02:00 EST",
+          "added_at_kst": "2026-11-25 01:07:17 KST"
+        },
+        {
           "text_kor": "증권가는 젠슨 황 복귀로 AI 불안이 완화됐지만 조사·청문회 등 변수는 여전하고 회복에는 시간이 걸릴 것으로 봤습니다.",
           "text_eng": "Brokerages say Huang's return eases AI worries, but investigations and hearings remain risks and recovery will take time.",
           "source": "연합뉴스",
@@ -19326,6 +19334,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "11월 미국 현물 비트코인 ETF 순유출이 47억1천만달러로 사상 최대를 기록했다.",
+          "text_eng": "November spot Bitcoin ETF net outflows hit a record $4.71 billion.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 01:07:17 KST"
+        },
         {
           "text_kor": "비트코인이 금리 인상 우려와 규제 불안 속 6만 달러 부근에서 등락하며 26개월 최저 수준 근처에 머물렀다.",
           "text_eng": "Bitcoin hovered near $60,000 near a 26-month low amid rate-hike worries and regulatory concerns.",
