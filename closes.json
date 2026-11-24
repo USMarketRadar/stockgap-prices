@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "젠슨 황이 CEO로 복귀하며 하루 31% 급등했던 엔비디아가 24일 장전 거래에서 차익 실현과 SEC·법무부 등 조사 리스크로 약 3.7% 하락했다.",
+          "text_eng": "After surging ~31% on Jensen Huang's return as CEO, Nvidia fell about 3.7% in Nov 24 pre-market on profit-taking and unresolved SEC/DOJ investigations.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2188428",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 05:08:06 KST"
+        },
+        {
           "text_kor": "엔비디아 주가가 젠슨 황 CEO 복귀 소식에 31% 급등한 뒤 장전 거래에서 차익 실현으로 5% 안팎 하락했다. SEC와 캘리포니아 검찰 조사 등 규제 리스크도 남아 있다.",
           "text_eng": "Nvidia fell roughly 4-6% in premarket on profit-taking after a 31% surge on CEO Jensen Huang's return; SEC and California AG probes remain a overhang.",
           "source": "Investing.com Korea",
