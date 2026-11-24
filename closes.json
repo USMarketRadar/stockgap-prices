@@ -1893,6 +1893,14 @@
           "added_at_kst": "2026-11-24 09:12:53 KST"
         },
         {
+          "text_kor": "엔비디아 이사회가 사임 11일 만에 젠슨 황을 CEO로 복귀시키기로 만장일치 결정했으며, 주가는 30% 넘게 급등했다.",
+          "text_eng": "Nvidia's board unanimously reinstated Jensen Huang as CEO 11 days after his resignation, and the stock surged more than 30%.",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611240051434214",
+          "published_at_et": "2026-11-23 10:51:00 EST",
+          "added_at_kst": "2026-11-24 23:15:00 KST"
+        },
+        {
           "text_kor": "엔비디아가 젠슨 황 CEO 복귀 발표로 정규장 개장 직후 30% 넘게 급등했고, 마이크론(16%) 등 반도체주도 동반 상승했다.",
           "text_eng": "Nvidia surged over 30% at the open after announcing Jensen Huang's return as CEO, with Micron (+16%) and other chip stocks rising in tandem.",
           "source": "한국경제",
@@ -2275,6 +2283,14 @@
       "close_time_et": "2026-11-23 16:00:01 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "인텔 주가가 프리마켓에서 약 5.8% 하락했다. 전일 18A-P 파운드리 첫 외부 고객 소식에 16% 급등한 뒤 차익실현과 반도체 전반 약세가 겹쳤다.",
+          "text_eng": "Intel fell about 5.8% in premarket trading after Monday's 16% surge on its first external 18A-P foundry customer, amid profit-taking and a broad chip-sector pullback.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-intel-stock-sliding-today-93CH-5047893",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 23:15:00 KST"
+        },
         {
           "text_kor": "인텔은 엔비디아 CEO 복귀와 AI 낙관론에 23일 16.3% 오른 59.66달러에 마감했으며 시간외에서는 약 2.4% 내렸다.",
           "text_eng": "Intel closed up 16.3% at $59.66 on Nov 23 on the Nvidia CEO news and AI optimism, but slipped about 2.4% after hours.",
@@ -19349,6 +19365,14 @@
           "url": "https://www.newspim.com/news/view/20261124001417",
           "published_at_et": "2026-11-24 05:30:00 EST",
           "added_at_kst": "2026-11-24 20:11:56 KST"
+        },
+        {
+          "text_kor": "비트코인이 24시간 동안 2% 넘게 하락하며 6만 달러 아래로 밀렸다. 엔비디아 주도 랠리가 약해지고 달러 강세가 부담으로 작용했다.",
+          "text_eng": "Bitcoin fell more than 2% in 24 hours to below $60,000 as the Nvidia-led rally faded and the dollar stayed strong.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+          "published_at_et": "2026-11-24 05:08:00 EST",
+          "added_at_kst": "2026-11-24 23:15:00 KST"
         },
         {
           "text_kor": "24일 비트코인은 6만237달러로 1.50% 하락했고, 미국 비트코인·이더리움 현물 ETF에서 6억5460만달러가 순유출됐다.",
