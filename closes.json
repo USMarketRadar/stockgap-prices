@@ -1861,6 +1861,14 @@
           "added_at_kst": "2026-11-24 22:09:19 KST"
         },
         {
+          "text_kor": "엔비디아가 젠슨 황 CEO 복귀로 31% 넘게 급등한 다음 날 5.86% 하락한 155.38달러에 마감했다. 황은 복귀 후 첫 전 직원 회의에서 사과하면서도 승계 계획은 필요 없다고 밝혔다.",
+          "text_eng": "Nvidia fell 5.86% to $155.38 a day after a 31% surge on CEO Jensen Huang's return. At his first all-hands, Huang apologized but said no succession plan is needed.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611250616389394",
+          "published_at_et": "2026-11-24 16:16:00 EST",
+          "added_at_kst": "2026-11-25 07:12:53 KST"
+        },
+        {
           "text_kor": "젠슨 황 CEO 복귀로 전날 31.5% 급등했던 엔비디아가 24일 정오 무렵 8.4% 급락했다. 의회·규제당국 조사와 청문회 우려가 매도 요인이다.",
           "text_eng": "Nvidia, which jumped 31.5% the prior day on CEO Jensen Huang's return, fell about 8.4% around midday Nov 24 on congressional and regulatory probe worries.",
           "source": "파이낸셜뉴스",
@@ -19366,6 +19374,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 6만 달러 아래로 후퇴했다. 트럼프 행정부의 관세 인상 가능성과 주식 랠리 둔화가 부담으로 작용했다.",
+          "text_eng": "Bitcoin pulled back below $60,000 as the stock rally faded and possible tariff hikes re-entered the picture.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 07:12:53 KST"
+        },
         {
           "text_kor": "비트코인이 55,000달러까지 떨어지면서 사상 최대인 1,160만 BTC가 손실 구간에 놓였으며, 대형 보유자의 매수가 이어졌다.",
           "text_eng": "Bitcoin's drop to $55,000 left a record 11.6 million BTC underwater, with large holders buying.",
