@@ -19367,6 +19367,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "비트코인이 55,000달러까지 떨어지면서 사상 최대인 1,160만 BTC가 손실 구간에 놓였으며, 대형 보유자의 매수가 이어졌다.",
+          "text_eng": "Bitcoin's drop to $55,000 left a record 11.6 million BTC underwater, with large holders buying.",
+          "source": "코인데스크코리아",
+          "url": "https://www.coindesk.com/ko/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 06:11:51 KST"
+        },
+        {
           "text_kor": "비트코인이 4시간 새 2.51% 하락해 5만9878달러를 기록했다.",
           "text_eng": "Bitcoin fell 2.51% in four hours to $59,878.",
           "source": "토큰포스트",
