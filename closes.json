@@ -7192,7 +7192,16 @@
       "close": 149.09,
       "close_time_et": "2026-11-23 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "사노피가 주당 175달러, 약 410억 달러 현금으로 인스메드를 인수하기로 해 야간 거래에서 주가가 약 17% 올랐습니다.",
+          "text_eng": "Sanofi agreed to acquire Insmed for $175 per share in cash (about $41B), sending the stock up about 17% overnight.",
+          "source": "Source",
+          "url": "https://www.rttnews.com/3717368/sanofi-agrees-to-acquire-insmed-in-41-bln-cash-deal-insmed-stock-up-17-in-overnight.aspx",
+          "published_at_et": "2026-11-24 01:46:49 EST",
+          "added_at_kst": "2026-11-24 16:09:04 KST"
+        }
+      ]
     },
     "ENTG": {
       "close": 142.06,
@@ -8794,6 +8803,14 @@
           "url": "https://www.globenewswire.com/news-release/2026/11/23/3408886/0/en/fluence-energy-inc-reports-2026-financial-results.html",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:18 KST"
+        },
+        {
+          "text_kor": "4분기 수주가 사상 최대 35억 달러, 수주잔고 89억 달러를 기록했으나 분기 순손실 1억3,780만 달러를 냈고, 시간외에서 약 17% 급등했습니다.",
+          "text_eng": "Record $3.5B Q4 order intake and an $8.9B backlog, but a $137.8M quarterly loss; shares jumped about 17% after hours.",
+          "source": "Source",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63568171/fluence-energy-flnc-stock-jumps-over-17-after-hours-whats-going-on",
+          "published_at_et": "2026-11-24 00:23:00 EST",
+          "added_at_kst": "2026-11-24 16:09:04 KST"
         }
       ]
     },
