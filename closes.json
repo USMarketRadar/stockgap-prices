@@ -1845,6 +1845,22 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "증권가는 젠슨 황 복귀로 AI 불안이 완화됐지만 조사·청문회 등 변수는 여전하고 회복에는 시간이 걸릴 것으로 봤습니다.",
+          "text_eng": "Brokerages say Huang's return eases AI worries, but investigations and hearings remain risks and recovery will take time.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124092451008",
+          "published_at_et": "2026-11-24 01:55:40 EST",
+          "added_at_kst": "2026-11-24 21:11:35 KST"
+        },
+        {
+          "text_kor": "엔비디아 이사회가 만장일치로 젠슨 황을 CEO로 복귀시켰고, 황은 24일 본사에 출근해 직원들에게 \"더 나은 CEO가 되겠다\"고 밝혔습니다.",
+          "text_eng": "Nvidia's board unanimously reinstated Jensen Huang as CEO; he returned to HQ on the 24th and told staff he will be a better CEO.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124126300704",
+          "published_at_et": "2026-11-24 01:09:34 EST",
+          "added_at_kst": "2026-11-24 21:11:35 KST"
+        },
+        {
           "text_kor": "젠슨 황 CEO 복귀 소식에 엔비디아 주가가 23일 31.48% 급등한 165.05달러로 마감, 시총이 하루 새 약 9,600억 달러 늘었다.",
           "text_eng": "Nvidia shares surged 31.48% to close at $165.05 on Nov 23 after Jensen Huang's return as CEO, adding about $960B in market cap in a day.",
           "source": "YTN",
@@ -19301,6 +19317,14 @@
           "url": "https://www.news1.kr/finance/blockchain-fintech/6363722",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:19 KST"
+        },
+        {
+          "text_kor": "비트코인이 UTC 자정 이후 2.2% 하락해 약 5만9,900달러로 내려앉으며 월요일 상승분을 반납했습니다. 24시간 선물 청산액은 8억4,400만달러로 전일 대비 217% 늘었고, 현물 ETF는 5거래일 연속 순유출입니다.",
+          "text_eng": "Bitcoin fell 2.2% since UTC midnight to about $59,900, giving back Monday's gains; futures liquidations hit $844M (+217% d/d) and spot ETFs saw a fifth straight day of outflows.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+          "published_at_et": "2026-11-24 06:31:00 EST",
+          "added_at_kst": "2026-11-24 21:11:35 KST"
         },
         {
           "text_kor": "비트코인이 젠슨 황 복귀 효과로 6만4000달러를 넘었다가 반납해 5만9000달러대로 내려왔고, 금리 인상 전망과 ETF 자금 유출이 부담이다.",
