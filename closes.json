@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아가 젠슨 황 CEO 복귀 발표에 23일(현지시간) 31.5% 급등한 165.05달러에 마감했고 시가총액은 4조 달러를 회복했다.",
+          "text_eng": "Nvidia surged 31.5% to close at $165.05 on Nov 23 after Jensen Huang's return as CEO was announced, restoring its market cap to about $4 trillion.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/24/2026112406440061496",
+          "published_at_et": "2026-11-23 16:47:08 EST",
+          "added_at_kst": "2026-11-24 18:10:12 KST"
+        },
+        {
           "text_kor": "젠슨 황이 사임 11일 만에 엔비디아 CEO로 복귀한다는 발표에 엔비디아 주가가 장중 30% 넘게 급등했고 반도체 지수도 13% 넘게 올랐다. 다만 수출통제 관련 조사는 계속된다.",
           "text_eng": "Nvidia shares jumped over 30% intraday after Jensen Huang's return as CEO 11 days after resigning, lifting the SOX index over 13%; export-control probes continue.",
           "source": "메트로신문",
@@ -2235,6 +2243,14 @@
       "close_time_et": "2026-11-23 16:00:01 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "인텔은 엔비디아 CEO 복귀와 AI 낙관론에 23일 16.3% 오른 59.66달러에 마감했으며 시간외에서는 약 2.4% 내렸다.",
+          "text_eng": "Intel closed up 16.3% at $59.66 on Nov 23 on the Nvidia CEO news and AI optimism, but slipped about 2.4% after hours.",
+          "source": "Benzinga Korea",
+          "url": "https://kr.benzinga.com/news/usa/trading/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%A0%A0%EC%8A%A8-%ED%99%A9-ceo-%EB%B3%B5%EA%B7%80%EC%97%90-%EC%9D%B8%ED%85%94-%EC%A3%BC%EA%B0%80-16-%EA%B8%89%EB%93%B1ai-%ED%88%AC%EC%9E%90/",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 18:10:12 KST"
+        },
         {
           "text_kor": "미국 AI 반도체주가 프리마켓에서 하락했다. AMD 5%, 인텔 4.5%, 엔비디아 2% 하락했다.",
           "text_eng": "US AI chip stocks fell in premarket trading: AMD -5%, Intel -4.5%, Nvidia -2%.",
@@ -19246,6 +19262,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 금리 인상 우려와 규제 불안 속 6만 달러 부근에서 등락하며 26개월 최저 수준 근처에 머물렀다.",
+          "text_eng": "Bitcoin hovered near $60,000 near a 26-month low amid rate-hike worries and regulatory concerns.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2188217",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 18:10:12 KST"
+        },
         {
           "text_kor": "미국 현물 비트코인 ETF가 4거래일 연속 순유출을 기록했으며, 하루 약 6억6916만 달러가 빠져나갔다.",
           "text_eng": "US spot Bitcoin ETFs saw a fourth straight day of net outflows, with about $669.16M leaving in one day.",
