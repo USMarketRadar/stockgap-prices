@@ -8772,6 +8772,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "플루언스 에너지는 4분기 매출과 주당손실이 예상보다 부진했지만 사상 최대 분기 수주 35억달러와 수주잔고 89억달러를 발표했고 주가는 약 9.8% 올랐다.",
+          "text_eng": "Fluence Energy missed Q4 revenue and EPS estimates but reported record $3.5B quarterly orders and an $8.9B backlog; shares rose about 9.8%.",
+          "source": "Source",
+          "url": "https://www.investing.com/news/earnings/fluence-energy-earnings-missed-by-048-revenue-fell-short-of-estimates-5046755",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 13:06:23 KST"
+        },
+        {
           "text_kor": "4분기 매출과 EPS가 예상을 밑돌았지만 35억 달러의 분기 최대 수주와 89억 달러 수주잔고를 발표했고, 정규장 종가는 3.80달러(+9.8%)였다.",
           "text_eng": "Q4 revenue and EPS missed estimates, but it reported record $3.5B quarterly orders and an $8.9B backlog; the stock closed at $3.80 (+9.8%).",
           "source": "GlobeNewswire",
@@ -16021,6 +16029,14 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html",
           "published_at_et": "2026-11-23 19:10:26 EST",
           "added_at_kst": "2026-11-24 11:11:41 KST"
+        },
+        {
+          "text_kor": "HPE가 2026회계연도 4분기 매출이 50% 늘고 내년 전망도 상향했지만, 1분기 매출 전망 상단이 일부 낙관론자 기대에 못 미쳐 시간 외에서 6%가량 하락했다.",
+          "text_eng": "HPE beat Q4 estimates (revenue +50%) and raised its outlook, but slipped about 6% after hours as its Q1 guidance top end fell short of the most bullish forecasts.",
+          "source": "Source",
+          "url": "https://www.newspim.com/news/view/20261124000077",
+          "published_at_et": "2026-11-23 18:21:00 EST",
+          "added_at_kst": "2026-11-24 13:06:23 KST"
         }
       ]
     },
