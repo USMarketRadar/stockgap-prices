@@ -1877,6 +1877,14 @@
           "added_at_kst": "2026-11-25 02:07:18 KST"
         },
         {
+          "text_kor": "젠슨 황 CEO 복귀로 전 거래일 급등한 엔비디아가 24일 차익실현과 규제 우려 속에 급반등 후 방어선을 구축하는 흐름을 보였다.",
+          "text_eng": "After surging on Jensen Huang's return as CEO, Nvidia swung between a sharp rebound and profit-taking on Nov 24 amid regulatory concerns.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124085651008?section=economy%2Fall",
+          "published_at_et": "2026-11-24 02:20:51 EST",
+          "added_at_kst": "2026-11-25 04:06:15 KST"
+        },
+        {
           "text_kor": "증권가는 젠슨 황 복귀로 AI 불안이 완화됐지만 조사·청문회 등 변수는 여전하고 회복에는 시간이 걸릴 것으로 봤습니다.",
           "text_eng": "Brokerages say Huang's return eases AI worries, but investigations and hearings remain risks and recovery will take time.",
           "source": "연합뉴스",
@@ -19350,6 +19358,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 4시간 새 2.51% 하락해 5만9878달러를 기록했다.",
+          "text_eng": "Bitcoin fell 2.51% in four hours to $59,878.",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/breaking/443256",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 04:06:15 KST"
+        },
         {
           "text_kor": "11월 미국 현물 비트코인 ETF 순유출이 47억1천만달러로 사상 최대를 기록했다.",
           "text_eng": "November spot Bitcoin ETF net outflows hit a record $4.71 billion.",
