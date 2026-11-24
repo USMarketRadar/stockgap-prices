@@ -16005,7 +16005,16 @@
       "close": 48.02,
       "close_time_et": "2026-11-23 16:04:13 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "4분기 실적과 2027 회계연도 가이던스 상향에도 1분기 매출 가이던스가 기대에 못 미쳐 시간외에서 6~8% 하락했다.",
+          "text_eng": "Despite a Q4 beat and raised FY2027 guidance, Q1 revenue guidance fell slightly short of the most bullish estimates, and shares fell 6-8% after hours.",
+          "source": "Source",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-8-hours-001026553.html",
+          "published_at_et": "2026-11-23 19:10:26 EST",
+          "added_at_kst": "2026-11-24 11:11:41 KST"
+        }
+      ]
     },
     "CE": {
       "close": 45.22,
@@ -19187,6 +19196,14 @@
           "url": "https://www.news1.kr/finance/blockchain-fintech/6363722",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:19 KST"
+        },
+        {
+          "text_kor": "젠슨 황 엔비디아 CEO 복귀 소식에 비트코인이 한때 6만4000달러를 넘었으나 미국 거래시간대 매도세로 상승분을 반납하고 6만1000달러대로 내려왔다.",
+          "text_eng": "Bitcoin briefly topped $64,000 on news of Nvidia CEO Jensen Huang's return but gave back gains during US trading hours, falling back to the $61,000 range.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611240937437124",
+          "published_at_et": "2026-11-23 19:37:00 EST",
+          "added_at_kst": "2026-11-24 11:11:41 KST"
         },
         {
           "text_kor": "비트코인이 5만5000달러 저점에서 17% 반등해 6만4500달러를 넘었으나 상승분을 반납하며 6만1000달러대로 밀렸다.",
