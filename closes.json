@@ -8772,6 +8772,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "4분기 수주잔고가 89억달러로 전년 대비 68% 늘어 예상치를 웃돌면서 시간외에서 약 14.5% 상승했다.",
+          "text_eng": "Q4 backlog rose 68% YoY to $8.9B, above estimates, and the stock gained about 14.5% after hours.",
+          "source": "Source (2026-11-24 07:30 KST)",
+          "url": "https://xinyunshe.com/ko/news/28492.html",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 14:10:38 KST"
+        },
+        {
           "text_kor": "플루언스 에너지는 4분기 매출과 주당손실이 예상보다 부진했지만 사상 최대 분기 수주 35억달러와 수주잔고 89억달러를 발표했고 주가는 약 9.8% 올랐다.",
           "text_eng": "Fluence Energy missed Q4 revenue and EPS estimates but reported record $3.5B quarterly orders and an $8.9B backlog; shares rose about 9.8%.",
           "source": "Source",
@@ -19213,6 +19221,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "미국 현물 비트코인 ETF가 4거래일 연속 순유출을 기록했으며, 하루 약 6억6916만 달러가 빠져나갔다.",
+          "text_eng": "US spot Bitcoin ETFs saw a fourth straight day of net outflows, with about $669.16M leaving in one day.",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/443321",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 14:10:40 KST"
+        },
         {
           "text_kor": "주말 급락으로 약 18억 달러 청산이 발생한 뒤 비트코인이 6만 1천 달러대를 회복했지만, 젠슨 황 복귀 효과는 짧은 반등에 그쳤다.",
           "text_eng": "Bitcoin rebounded above $61,000 after about $1.8B in liquidations, but the bounce tied to Jensen Huang's return proved brief.",
