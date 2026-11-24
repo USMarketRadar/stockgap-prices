@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아 주가가 젠슨 황 CEO 복귀 소식에 31% 급등한 뒤 장전 거래에서 차익 실현으로 5% 안팎 하락했다. SEC와 캘리포니아 검찰 조사 등 규제 리스크도 남아 있다.",
+          "text_eng": "Nvidia fell roughly 4-6% in premarket on profit-taking after a 31% surge on CEO Jensen Huang's return; SEC and California AG probes remain a overhang.",
+          "source": "Investing.com Korea",
+          "url": "https://kr.investing.com/equities/nvidia-corp",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-24 22:09:19 KST"
+        },
+        {
           "text_kor": "증권가는 젠슨 황 복귀로 AI 불안이 완화됐지만 조사·청문회 등 변수는 여전하고 회복에는 시간이 걸릴 것으로 봤습니다.",
           "text_eng": "Brokerages say Huang's return eases AI worries, but investigations and hearings remain risks and recovery will take time.",
           "source": "연합뉴스",
@@ -8843,6 +8851,14 @@
           "url": "https://www.globenewswire.com/news-release/2026/11/23/3408886/0/en/fluence-energy-inc-reports-2026-financial-results.html",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:18 KST"
+        },
+        {
+          "text_kor": "플루언스 에너지가 4분기 사상 최대 수주(35억달러)와 수주잔고(89억달러)를 발표하며 장전 16% 상승한 4.41달러를 기록했다.",
+          "text_eng": "Fluence Energy rose 16% to $4.41 premarket after reporting record Q4 orders of $3.5B and a record $8.9B backlog.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/fluence-energy-shares-gain-on-record-4q-orders-backlog-d7fc4de1",
+          "published_at_et": "2026-11-24 07:43:00 EST",
+          "added_at_kst": "2026-11-24 22:09:19 KST"
         },
         {
           "text_kor": "4분기 수주가 사상 최대 35억 달러, 수주잔고 89억 달러를 기록했으나 분기 순손실 1억3,780만 달러를 냈고, 시간외에서 약 17% 급등했습니다.",
