@@ -16007,6 +16007,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "4분기 AI 서버 매출이 95% 급증하고 내년 전망도 상향했지만 시장 기대에 못 미쳤다는 평가에 시간외에서 6%대 하락했다.",
+          "text_eng": "AI server revenue jumped 95% and guidance was raised, but results fell short of elevated expectations and shares dropped about 6% after hours.",
+          "source": "Source",
+          "url": "https://zdnet.co.kr/view/?no=20261124095014",
+          "published_at_et": "2026-11-23 19:50:00 EST",
+          "added_at_kst": "2026-11-24 12:13:10 KST"
+        },
+        {
           "text_kor": "4분기 실적과 2027 회계연도 가이던스 상향에도 1분기 매출 가이던스가 기대에 못 미쳐 시간외에서 6~8% 하락했다.",
           "text_eng": "Despite a Q4 beat and raised FY2027 guidance, Q1 revenue guidance fell slightly short of the most bullish estimates, and shares fell 6-8% after hours.",
           "source": "Source",
