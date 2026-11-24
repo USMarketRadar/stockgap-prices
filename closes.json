@@ -1845,6 +1845,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "젠슨 황 CEO 복귀 소식에 엔비디아 주가가 23일 31.48% 급등한 165.05달러로 마감, 시총이 하루 새 약 9,600억 달러 늘었다.",
+          "text_eng": "Nvidia shares surged 31.48% to close at $165.05 on Nov 23 after Jensen Huang's return as CEO, adding about $960B in market cap in a day.",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611240701516110",
+          "published_at_et": "2026-11-23 17:01:00 EST",
+          "added_at_kst": "2026-11-24 20:11:56 KST"
+        },
+        {
           "text_kor": "엔비디아가 젠슨 황 CEO 복귀 발표에 23일(현지시간) 31.5% 급등한 165.05달러에 마감했고 시가총액은 4조 달러를 회복했다.",
           "text_eng": "Nvidia surged 31.5% to close at $165.05 on Nov 23 after Jensen Huang's return as CEO was announced, restoring its market cap to about $4 trillion.",
           "source": "머니투데이",
@@ -19293,6 +19301,14 @@
           "url": "https://www.news1.kr/finance/blockchain-fintech/6363722",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:19 KST"
+        },
+        {
+          "text_kor": "비트코인이 젠슨 황 복귀 효과로 6만4000달러를 넘었다가 반납해 5만9000달러대로 내려왔고, 금리 인상 전망과 ETF 자금 유출이 부담이다.",
+          "text_eng": "Bitcoin topped $64,000 on the Jensen Huang return rally before giving back gains to the $59,000s, pressured by rate-hike expectations and ETF outflows.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261124001417",
+          "published_at_et": "2026-11-24 05:30:00 EST",
+          "added_at_kst": "2026-11-24 20:11:56 KST"
         },
         {
           "text_kor": "24일 비트코인은 6만237달러로 1.50% 하락했고, 미국 비트코인·이더리움 현물 ETF에서 6억5460만달러가 순유출됐다.",
