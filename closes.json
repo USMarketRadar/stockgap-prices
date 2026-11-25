@@ -2492,6 +2492,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "젠슨 황 효과에 대한 의문 속에 반도체지수가 8% 급반락했고 마이크론은 11% 하락했다.",
+          "text_eng": "The semiconductor index tumbled about 8% amid doubts over the 'Jensen Huang effect', with Micron down 11%.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026112581587",
+          "published_at_et": "2026-11-24 16:48:44 EST",
+          "added_at_kst": "2026-11-25 20:11:37 KST"
+        },
+        {
           "text_kor": "마이크론이 고점 대비 51% 하락했습니다. 시장은 현재 이익이 정점이라고 판단하고 있으며 HBM·SSD 수요가 변수입니다.",
           "text_eng": "Micron is down about 51% from its peak as the market judges current earnings to be at a peak; HBM and SSD demand is the key variable.",
           "source": "파이낸셜뉴스",
