@@ -8892,6 +8892,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "3분기 실적과 4분기 가이던스가 기대에 크게 못 미쳐 시간외에서 주가가 급락했습니다. 메모리 부족으로 고객사 주문이 취소·연기된 영향입니다.",
+          "text_eng": "Q3 results and Q4 guidance fell far short of expectations, sending shares sharply lower after hours as memory shortages caused customers to cancel or delay orders.",
+          "source": "Source",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2189699",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 15:15:11 KST"
+        },
+        {
           "text_kor": "3분기 실적 부진과 4분기 매출 가이던스(7,000만~7,500만달러) 쇼크로 주가가 급락했습니다.",
           "text_eng": "Shares plunged after a Q3 miss and Q4 revenue guidance of $70M–$75M, far below consensus.",
           "source": "Source",
@@ -15856,6 +15864,14 @@
           "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2187552",
           "published_at_et": null,
           "added_at_kst": "2026-11-24 19:13:01 KST"
+        },
+        {
+          "text_kor": "젠슨황 효과에 대한 의문으로 필라델피아 반도체지수가 8% 급반락하고 마이크론이 11% 하락했습니다.",
+          "text_eng": "The Philadelphia Semiconductor Index fell 8% on doubts over the Jensen Huang effect, with Micron down 11%.",
+          "source": "Source (2026-11-25 ET)",
+          "url": "https://www.hankyung.com/article/2026112581587",
+          "published_at_et": "2026-11-24 16:48:44 EST",
+          "added_at_kst": "2026-11-25 15:15:11 KST"
         },
         {
           "text_kor": "젠슨 황 효과 지속성 의문에 필라델피아 반도체지수가 7.9% 급락했다.",
