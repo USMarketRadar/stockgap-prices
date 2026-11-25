@@ -1845,6 +1845,22 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "S&P가 경영·지배구조 평가 악화를 이유로 엔비디아 신용등급 강등 검토에 들어갔습니다.",
+          "text_eng": "S&P has placed Nvidia's credit rating under review for a possible downgrade, citing a worsened assessment of management and governance.",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261126007100072",
+          "published_at_et": "2026-11-25 15:38:24 EST",
+          "added_at_kst": "2026-11-26 07:14:57 KST"
+        },
+        {
+          "text_kor": "AI 관련주 매도세와 관세 우려로 뉴욕 증시가 급락하는 가운데 엔비디아가 장중 8% 넘게 하락했고, 젠슨 황 CEO 복귀도 AI 투자 의구심을 해소하지 못했습니다.",
+          "text_eng": "Nvidia fell more than 8% intraday as an AI-stock selloff and tariff worries hit Wall Street; CEO Jensen Huang's return did not ease doubts over AI spending.",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202611260127406384",
+          "published_at_et": "2026-11-25 11:27:00 EST",
+          "added_at_kst": "2026-11-26 07:14:57 KST"
+        },
+        {
           "text_kor": "젠슨 황이 CEO로 복귀하며 하루 31% 급등했던 엔비디아가 24일 장전 거래에서 차익 실현과 SEC·법무부 등 조사 리스크로 약 3.7% 하락했다.",
           "text_eng": "After surging ~31% on Jensen Huang's return as CEO, Nvidia fell about 3.7% in Nov 24 pre-market on profit-taking and unresolved SEC/DOJ investigations.",
           "source": "Investing.com 한국어",
@@ -19562,6 +19578,14 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "현물 ETF 자금 유출이 이어지며 비트코인이 한때 8000만원선이 무너졌습니다.",
+          "text_eng": "Bitcoin briefly broke below the 80 million won level in Korea as spot ETF outflows continued.",
+          "source": "아시아타임즈",
+          "url": "https://www.asiatime.co.kr/article/20261125500424",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-26 07:14:57 KST"
+        },
         {
           "text_kor": "비트코인이 5만9천달러 아래로 다시 하락했습니다. 기술주 매도가 이어지고 HYPE는 8%, SOL은 5% 하락했습니다.",
           "text_eng": "Bitcoin slipped back below $59,000 as the tech-stock selloff continued; HYPE fell 8% and SOL 5%.",
