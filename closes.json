@@ -8948,6 +8948,14 @@
           "added_at_kst": "2026-11-25 15:15:11 KST"
         },
         {
+          "text_kor": "암바렐라가 3분기 매출·EPS 부진과 시장 예상(약 1.12억 달러)을 크게 밑도는 4분기 가이던스(7,000만~7,500만 달러)로 약 37% 급락했고, 모건스탠리가 투자의견을 낮췄습니다.",
+          "text_eng": "Ambarella plunged about 37.5% after a Q3 revenue/EPS miss and Q4 guidance of $70M–$75M, far below the ~$112M expected; Morgan Stanley downgraded the stock.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-shares-plunge-37-5-110038421.html",
+          "published_at_et": "2026-11-25 06:00:38 EST",
+          "added_at_kst": "2026-11-25 23:12:26 KST"
+        },
+        {
           "text_kor": "3분기 실적 부진과 4분기 매출 가이던스(7,000만~7,500만달러) 쇼크로 주가가 급락했습니다.",
           "text_eng": "Shares plunged after a Q3 miss and Q4 revenue guidance of $70M–$75M, far below consensus.",
           "source": "Source",
@@ -19531,6 +19539,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "비트코인이 5만9천달러 아래로 다시 하락했습니다. 기술주 매도가 이어지고 HYPE는 8%, SOL은 5% 하락했습니다.",
+          "text_eng": "Bitcoin slipped back below $59,000 as the tech-stock selloff continued; HYPE fell 8% and SOL 5%.",
+          "source": "코인데스크코리아",
+          "url": "https://www.coindesk.com/ko/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+          "published_at_et": "2026-11-25 08:47:00 EST",
+          "added_at_kst": "2026-11-25 23:12:26 KST"
+        },
+        {
           "text_kor": "비트코인이 6만 달러 아래로 후퇴했다. 트럼프 행정부의 관세 인상 가능성과 주식 랠리 둔화가 부담으로 작용했다.",
           "text_eng": "Bitcoin pulled back below $60,000 as the stock rally faded and possible tariff hikes re-entered the picture.",
           "source": "코인데스크 코리아",
@@ -19577,6 +19593,14 @@
           "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904437",
           "published_at_et": "2026-11-25 03:16:00 EST",
           "added_at_kst": "2026-11-25 18:05:43 KST"
+        },
+        {
+          "text_kor": "비트코인·이더리움 현물 ETF에서 하루 약 3억 달러가 빠져나갔고, 매도세는 블랙록에 집중됐습니다.",
+          "text_eng": "Bitcoin and Ether spot ETFs saw about $300M of daily outflows, concentrated in BlackRock products.",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1170399",
+          "published_at_et": "2026-11-25 02:15:24 EST",
+          "added_at_kst": "2026-11-25 23:12:26 KST"
         },
         {
           "text_kor": "비트코인이 미국 기술주 약세, 현물 ETF 자금 유출, FTX 사태 이후 최대 수준의 실현손실로 8,000만원 초반대까지 하락했습니다.",
