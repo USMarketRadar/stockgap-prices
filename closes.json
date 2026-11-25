@@ -1869,6 +1869,14 @@
           "added_at_kst": "2026-11-24 22:09:19 KST"
         },
         {
+          "text_kor": "젠슨 황 CEO 복귀 랠리 하루 만에 엔비디아 주가가 약 6% 하락했고, AI 투자 부채 우려에 코어위브 등 관련주도 동반 약세를 보였다.",
+          "text_eng": "Nvidia fell about 6% a day after the Jensen Huang return rally, with AI-related names like CoreWeave also lower on debt concerns.",
+          "source": "ZDNet Korea",
+          "url": "https://zdnet.co.kr/view/?no=20261125084953",
+          "published_at_et": "2026-11-24 21:20:00 EST",
+          "added_at_kst": "2026-11-25 22:08:14 KST"
+        },
+        {
           "text_kor": "엔비디아가 복귀한 젠슨 황 효과로 전날 30% 이상 급등한 뒤 차익 실현으로 5.86% 하락했고, 필라델피아 반도체지수는 7.88% 내렸다.",
           "text_eng": "Nvidia fell 5.86% on profit-taking after surging over 30% the prior day on Jensen Huang's return; the Philadelphia Semiconductor Index dropped 7.88%.",
           "source": "YTN",
@@ -2228,6 +2236,14 @@
       "close_time_et": "2026-11-24 16:00:00 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "트렌드포스가 내년 1분기 낸드 가격이 최대 5% 하락할 것으로 전망하면서 샌디스크 주가가 급락했다.",
+          "text_eng": "Sandisk dropped after TrendForce forecast NAND prices to fall up to 5% in Q1 2027.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026112328935",
+          "published_at_et": "2026-11-22 17:48:01 EST",
+          "added_at_kst": "2026-11-25 22:08:14 KST"
+        },
         {
           "text_kor": "샌디스크가 8대1 주식분할 후 첫 거래일을 맞았다. 목요일 종가 755.16달러는 분할 조정 기준가 94.40달러에 해당한다.",
           "text_eng": "Sandisk began trading on a post 8-for-1 split basis; Thursday's $755.16 close equals a split-adjusted reference of $94.40.",
@@ -15889,6 +15905,14 @@
       "close_time_et": "2026-11-24 16:00:00 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "SOXL이 개장 전 약 14.8% 하락했다. 엔비디아 CEO 후계 구도 불확실성, Ambarella의 부진한 가이던스, 금리·관세 우려가 반도체주 매도를 키웠다.",
+          "text_eng": "SOXL fell about 14.8% pre-market as Ambarella's weak outlook, Nvidia succession uncertainty and rate/tariff worries deepened the chip selloff.",
+          "source": "Investing.com Korea",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2190278",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-25 22:08:14 KST"
+        },
         {
           "text_kor": "SOXL이 24일 정규장 초반 39.4% 급등했다. 엔비디아 이사회가 젠슨 황의 CEO 복귀를 결정하며 반도체 업종 매도세가 반전됐다.",
           "text_eng": "SOXL jumped 39.4% early in the Nov 23 US session after Nvidia's board reinstated Jensen Huang as CEO, reversing the chip-sector selloff.",
