@@ -2109,22 +2109,6 @@
           "added_at_kst": "2026-11-21 03:13:48 KST"
         },
         {
-          "text_kor": "엔비디아는 11월 19일 3.30% 하락한 145.98달러로 마감했습니다. 강한 3분기 실적과 가이던스에도 젠슨 황 CEO 사임 여파와 AI 투자 우려가 부담으로 작용했습니다.",
-          "text_eng": "Nvidia closed down 3.30% at $145.98 on Nov. 19 as fallout from CEO Jensen Huang's resignation and AI-spending worries outweighed strong Q3 results and guidance.",
-          "source": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/",
-          "published_at_et": "2026-11-19 17:00:25 EST",
-          "added_at_kst": "2026-11-20 07:13:50 KST"
-        },
-        {
-          "text_kor": "전 CEO 젠슨 황의 스캔들과 중국 칩 우회 의혹(Megaspeed)으로 엔비디아와 황 전 CEO의 법적 리스크가 커지고 있으며, 주주 집단소송도 진행 중이다.",
-          "text_eng": "Legal exposure for Nvidia and ex-CEO Jensen Huang is growing over the scandal and alleged chip diversion to China via Megaspeed, with a shareholder class action already pending.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-          "published_at_et": "2026-11-19 12:30:00 EST",
-          "added_at_kst": "2026-11-20 06:14:43 KST"
-        },
-        {
           "text_kor": "엔비디아가 호실적에도 CEO 공백과 중국 칩 유입 조사 등 경영 불확실성으로 월가의 의구심이 이어지며 11월 19일 약 3% 하락했다.",
           "text_eng": "Despite strong results, Wall Street doubts about Nvidia persist over the CEO vacuum and a probe into chips flowing to China; the stock fell about 3% on Nov 19.",
           "source": "파이낸셜뉴스",
@@ -17281,6 +17265,14 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "키옥시아가 엔비디아와 자사 SSD 검증에 나서 한국 HBM 일부를 대체할 수 있다는 관측에 샌디스크(SNDK) 등 메모리주가 반등했습니다.",
+          "text_eng": "Memory stocks including SanDisk (SNDK) rebounded after Kioxia said it is validating its SSDs with Nvidia, which could partly replace Korean HBM.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/11/26/2026112616304532833",
+          "published_at_et": "2026-11-26 02:54:19 EST",
+          "added_at_kst": "2026-11-27 06:09:27 KST"
+        },
+        {
           "text_kor": "샌디스크(SNDK) 약세와 AI 하드웨어 매도세로 30일간 약 67% 하락했으며, 1대 8 주식병합이 12월 7일 거래 이후 시행될 예정이다.",
           "text_eng": "Fell about 67% over 30 days on SanDisk weakness and an AI-hardware selloff; a 1-for-8 reverse split takes effect after Dec. 7 trading.",
           "source": "Tickeron",
@@ -19355,6 +19347,14 @@
           "url": "https://www.asiatime.co.kr/article/20261125500424",
           "published_at_et": null,
           "added_at_kst": "2026-11-26 07:14:57 KST"
+        },
+        {
+          "text_kor": "미국 현물 비트코인 ETF가 11월에만 53억9천만 달러 순유출을 기록해 사상 최대 월간 유출이 예상됩니다.",
+          "text_eng": "US spot Bitcoin ETFs have lost a net $5.39 billion in November, on track for their largest monthly outflow on record.",
+          "source": "코인데스크코리아",
+          "url": "https://www.coindesk.com/ko/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+          "published_at_et": "2026-11-26 07:14:00 EST",
+          "added_at_kst": "2026-11-27 06:09:27 KST"
         },
         {
           "text_kor": "비트코인이 미국 10월 PCE 물가(3.8%) 상승에 따른 긴축 우려로 한때 5만7000달러대까지 밀렸다가 6만 달러 선을 회복했다. 이달 현물 ETF에서는 약 47억 달러가 순유출됐다.",
