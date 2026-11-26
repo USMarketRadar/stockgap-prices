@@ -2143,14 +2143,6 @@
           "added_at_kst": "2026-11-20 06:14:43 KST"
         },
         {
-          "text_kor": "엔비디아·브로드컴·인텔 등 반도체주가 앤트로픽 상장 거래 시작 후 상승분을 반납하고 하락 전환했다. AMD는 Hunterbrook의 공매도 공개로 8% 하락했다.",
-          "text_eng": "Nvidia, Broadcom and Intel slid into the red after Anthropic shares began trading, erasing earlier gains; AMD fell 8% after Hunterbrook Media disclosed a short position.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
-          "published_at_et": "2026-11-19 12:29:00 EST",
-          "added_at_kst": "2026-11-20 03:11:17 KST"
-        },
-        {
           "text_kor": "수출 통제 및 젠슨 황 전 CEO 관련 조사가 속도를 내면서 엔비디아 주가가 실적 발표 후 상승분을 반납했습니다.",
           "text_eng": "Nvidia shares gave back post-earnings gains as export-control and Jensen Huang-related investigations picked up pace.",
           "source": "Investor's Business Daily",
@@ -2165,14 +2157,6 @@
           "url": "https://www.fnnews.com/news/202611191719011066",
           "published_at_et": "2026-11-19 03:19:02 EST",
           "added_at_kst": "2026-11-20 22:12:07 KST"
-        },
-        {
-          "text_kor": "엔비디아는 호실적에도 하원 위원회의 수출통제 회피 의혹 브리핑 요구와 SEC 조사, 중국 칩 규제 계획 등으로 하락했다.",
-          "text_eng": "Nvidia beat Q3 estimates but shares fell on a House committee's export-control briefing request, an SEC probe and planned China chip curbs.",
-          "source": "TradingView News",
-          "url": "https://www.tradingview.com/news/tradingview:f825435e422c0:0-key-facts-nvidia-beats-shares-fall-on-probe-china-chip-curbs/",
-          "published_at_et": "2026-11-19 03:00:00 EST",
-          "added_at_kst": "2026-11-20 04:07:18 KST"
         },
         {
           "text_kor": "엔비디아는 11월 18일 2.89% 하락한 150.96달러로 마감했습니다. 3분기 실적 호조에도 젠슨 황 CEO 사임 이후 후계 불확실성이 부담으로 작용했습니다.",
@@ -2204,16 +2188,7 @@
       "close": 380.14,
       "close_time_et": "2026-11-25 16:00:02 EST",
       "currency": "USD",
-      "news": [
-        {
-          "text_kor": "머스크가 중국 공장 생산을 계속 늘리겠다고 밝혀 테슬라가 약 1.9% 상승했다. 또한 매니토바 EV 리베이트 소송에서 법원 판단을 받았다.",
-          "text_eng": "Tesla rose about 1.9% after Musk said it will keep increasing China production; it also won a procedural ruling in its Manitoba EV rebate suit.",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63427524/whats-going-on-with-tesla-stock-thursday-2",
-          "published_at_et": "2026-11-19 09:40:00 EST",
-          "added_at_kst": "2026-11-20 03:11:17 KST"
-        }
-      ]
+      "news": []
     },
     "QQQ": {
       "close": 633.93,
@@ -2500,14 +2475,6 @@
           "url": "https://www.fnnews.com/news/202611231408257540",
           "published_at_et": "2026-11-23 00:08:26 EST",
           "added_at_kst": "2026-11-23 20:14:11 KST"
-        },
-        {
-          "text_kor": "마이크론도 상승분을 반납했다. 마이크론 CTO는 2027년 메모리 공급이 2026년보다 더 타이트할 것이라고 밝혔다.",
-          "text_eng": "Micron also lost its gains; its CTO said memory supply in 2027 will be tighter than in 2026.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
-          "published_at_et": "2026-11-19 12:29:00 EST",
-          "added_at_kst": "2026-11-20 03:11:17 KST"
         }
       ]
     },
