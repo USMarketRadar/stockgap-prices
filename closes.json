@@ -2103,14 +2103,6 @@
           "added_at_kst": "2026-11-21 01:12:44 KST"
         },
         {
-          "text_kor": "엔비디아는 시장 예상을 웃도는 실적과 1,300억 달러 가이던스를 내놨지만, 주가는 11/18 150.96달러(-2.89%)로 마감했습니다.",
-          "text_eng": "Nvidia beat expectations and guided Q4 revenue to $130B, but shares closed Nov 18 at $150.96 (-2.89%).",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/nvidias-earnings-beat-fails-to-lift-chip-sector-as-macro-and-policy-risks-weigh-93CH-5039285",
-          "published_at_et": null,
-          "added_at_kst": "2026-11-20 01:10:59 KST"
-        },
-        {
           "text_kor": "캘리포니아 당국이 엔비디아에 대해 중국 반도체 유출 및 투자자 기만 의혹과 관련한 조사에 착수했다.",
           "text_eng": "California authorities opened an investigation into Nvidia over alleged chip diversion to China and misleading investors.",
           "source": "파이낸셜뉴스",
@@ -2532,14 +2524,6 @@
           "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
           "published_at_et": "2026-11-19 12:29:00 EST",
           "added_at_kst": "2026-11-20 03:11:17 KST"
-        },
-        {
-          "text_kor": "마이크론이 약 4% 급등했다가 상승폭을 줄였으며, 2027년 메모리 공급이 2026년보다 더 빡빡할 것이라는 경영진 발언이 나왔습니다.",
-          "text_eng": "Micron jumped about 4% before paring gains after its CTO said 2027 memory supply will be tighter than 2026.",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-pare-gains-leading-up-to-anthropics-first-trade-155941221.html",
-          "published_at_et": "2026-11-19 10:59:00 EST",
-          "added_at_kst": "2026-11-20 01:10:59 KST"
         }
       ]
     },
