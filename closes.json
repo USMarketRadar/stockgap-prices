@@ -1033,7 +1033,16 @@
       "close": 564.12,
       "close_time_et": "2026-11-25 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "FDA가 신장질환 신약 결정을 연기하면서 시간외에서 하락했습니다.",
+          "text_eng": "Shares fell after hours as the FDA delayed its decision on the kidney drug.",
+          "source": "Source",
+          "url": "https://stocktwits.com/news-articles/markets/equity/vrtx-tumbles-after-hours-as-fda-delays-kidney-drug-decision-rival-vera-surges/cNbHueUR9mU",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-26 10:11:01 KST"
+        }
+      ]
     },
     "NEM": {
       "close": 101.44,
@@ -1681,7 +1690,16 @@
       "close": 29.5,
       "close_time_et": "2026-11-25 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "FDA가 버텍스의 경쟁 IgA 신증 치료제 심사를 2027년 2월 28일까지 연장하자 시간외에서 약 16~19% 급등했습니다.",
+          "text_eng": "Shares jumped roughly 16–19% after hours after the FDA extended its review of rival Vertex's IgA nephropathy drug to no later than Feb. 28, 2027.",
+          "source": "Source",
+          "url": "https://stocktwits.com/news-articles/markets/equity/vrtx-tumbles-after-hours-as-fda-delays-kidney-drug-decision-rival-vera-surges/cNbHueUR9mU",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-26 10:11:01 KST"
+        }
+      ]
     },
     "INTR": {
       "close": 4.01,
