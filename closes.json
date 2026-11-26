@@ -1,14 +1,8 @@
 {
-  "close_date": "2026-11-25",
+  "close_date": "2026-11-26",
   "source": "stock_gap_finance_v7_quote.regularMarketPrice",
-  "fetched_at_kst": "2026-11-26T07:14:22.391478+09:00",
+  "fetched_at_kst": "2026-11-27T06:08:25.108008+09:00",
   "quotes": {
-    "NNNN": {
-      "close": 3.65,
-      "close_time_et": "2026-11-25 16:00:01 EST",
-      "currency": "USD",
-      "news": []
-    },
     "CVCO": {
       "close": 694.9,
       "close_time_et": "2026-11-25 16:00:02 EST",
@@ -693,12 +687,6 @@
       "currency": "USD",
       "news": []
     },
-    "DSP": {
-      "close": 11.23,
-      "close_time_et": "2026-11-25 16:00:02 EST",
-      "currency": "USD",
-      "news": []
-    },
     "SIL": {
       "close": 65.45,
       "close_time_et": "2026-11-25 16:00:00 EST",
@@ -738,12 +726,6 @@
     "FENI": {
       "close": 37.95,
       "close_time_et": "2026-11-25 16:00:00 EST",
-      "currency": "USD",
-      "news": []
-    },
-    "HMH": {
-      "close": 11.25,
-      "close_time_et": "2026-11-25 16:00:01 EST",
       "currency": "USD",
       "news": []
     },
@@ -1298,7 +1280,7 @@
     },
     "CSANY": {
       "close": 2.34,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -2143,28 +2125,12 @@
           "added_at_kst": "2026-11-20 06:14:43 KST"
         },
         {
-          "text_kor": "수출 통제 및 젠슨 황 전 CEO 관련 조사가 속도를 내면서 엔비디아 주가가 실적 발표 후 상승분을 반납했습니다.",
-          "text_eng": "Nvidia shares gave back post-earnings gains as export-control and Jensen Huang-related investigations picked up pace.",
-          "source": "Investor's Business Daily",
-          "url": "https://www.investors.com/research/nvidia-nvda-stock-earnings-buy-now-november-2026/",
-          "published_at_et": "2026-11-19 08:15:00 EST",
-          "added_at_kst": "2026-11-20 05:10:34 KST"
-        },
-        {
           "text_kor": "엔비디아가 호실적에도 CEO 공백과 중국 칩 유입 조사 등 경영 불확실성으로 월가의 의구심이 이어지며 11월 19일 약 3% 하락했다.",
           "text_eng": "Despite strong results, Wall Street doubts about Nvidia persist over the CEO vacuum and a probe into chips flowing to China; the stock fell about 3% on Nov 19.",
           "source": "파이낸셜뉴스",
           "url": "https://www.fnnews.com/news/202611191719011066",
           "published_at_et": "2026-11-19 03:19:02 EST",
           "added_at_kst": "2026-11-20 22:12:07 KST"
-        },
-        {
-          "text_kor": "엔비디아는 11월 18일 2.89% 하락한 150.96달러로 마감했습니다. 3분기 실적 호조에도 젠슨 황 CEO 사임 이후 후계 불확실성이 부담으로 작용했습니다.",
-          "text_eng": "Nvidia closed Nov 18 at $150.96, down 2.89%, as CEO succession worries after Jensen Huang's resignation outweighed a strong Q3 report.",
-          "source": "Gotrade",
-          "url": "https://www.heygotrade.com/en/news/nvidia-nvda-stock-news-november-19-2026/",
-          "published_at_et": "2026-11-18 22:30:00 EST",
-          "added_at_kst": "2026-11-20 05:10:34 KST"
         },
         {
           "text_kor": "유진투자증권은 엔비디아가 호실적으로 AI 수요가 견조함을 보여줬으며 주가가 저평가돼 있다고 평가했다.",
@@ -3638,7 +3604,7 @@
     },
     "MRAAY": {
       "close": 14.94,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -4801,9 +4767,9 @@
       "news": []
     },
     "ITGR": {
-      "close": 126.97,
-      "close_time_et": "2026-11-16 16:00:08 EST",
-      "currency": "USD",
+      "close": null,
+      "close_time_et": null,
+      "currency": null,
       "news": []
     },
     "CCL": {
@@ -8091,12 +8057,6 @@
       "currency": "USD",
       "news": []
     },
-    "ITG": {
-      "close": 5.39,
-      "close_time_et": "2026-11-25 16:00:02 EST",
-      "currency": "USD",
-      "news": []
-    },
     "TGLS": {
       "close": 57.29,
       "close_time_et": "2026-11-25 16:00:03 EST",
@@ -9382,12 +9342,6 @@
     "BAM": {
       "close": 52.12,
       "close_time_et": "2026-11-25 16:00:02 EST",
-      "currency": "USD",
-      "news": []
-    },
-    "NAKA": {
-      "close": 3.325,
-      "close_time_et": "2026-11-25 16:00:01 EST",
       "currency": "USD",
       "news": []
     },
@@ -10779,12 +10733,6 @@
     },
     "CRTO": {
       "close": 19.1,
-      "close_time_et": "2026-11-25 16:00:02 EST",
-      "currency": "USD",
-      "news": []
-    },
-    "FBYD": {
-      "close": 4.24,
       "close_time_et": "2026-11-25 16:00:02 EST",
       "currency": "USD",
       "news": []
@@ -16386,8 +16334,8 @@
       "news": []
     },
     "TCEHY": {
-      "close": 43.56,
-      "close_time_et": "2026-11-25 16:00:01 EST",
+      "close": 43.61,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16506,9 +16454,9 @@
       "news": []
     },
     "PCRX": {
-      "close": 36.48,
-      "close_time_et": "2026-11-16 16:00:00 EST",
-      "currency": "USD",
+      "close": null,
+      "close_time_et": null,
+      "currency": null,
       "news": []
     },
     "NWPX": {
@@ -16548,32 +16496,32 @@
       "news": []
     },
     "RHHBY": {
-      "close": 60.91,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close": 60.8,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "IDCBY": {
-      "close": 19.56,
-      "close_time_et": "2026-11-25 15:55:02 EST",
+      "close": 19.54,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CICHY": {
       "close": 26.15,
-      "close_time_et": "2026-11-25 15:11:03 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "ACGBY": {
-      "close": 21.05,
-      "close_time_et": "2026-11-25 15:57:31 EST",
+      "close": 21.13,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SIEGY": {
-      "close": 138.61,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close": 138.41,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16595,69 +16543,63 @@
       "currency": "USD",
       "news": []
     },
-    "AURE": {
-      "close": 0.82,
+    "HTHIY": {
+      "close": 31.09,
       "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
-    "HTHIY": {
-      "close": 31.22,
-      "close_time_et": "2026-11-25 15:57:19 EST",
-      "currency": "USD",
-      "news": []
-    },
     "RCRUY": {
-      "close": 21.51,
-      "close_time_et": "2026-11-25 15:51:04 EST",
+      "close": 21.54,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "DTEGY": {
-      "close": 29.64,
-      "close_time_et": "2026-11-25 15:57:50 EST",
+      "close": 29.63,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "ATEYY": {
-      "close": 152.57,
-      "close_time_et": "2026-11-25 15:59:21 EST",
+      "close": 153.09,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "NSRGY": {
-      "close": 105.19,
-      "close_time_et": "2026-11-25 15:58:22 EST",
+      "close": 105.24,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SFTBY": {
       "close": 8.72,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "EADSY": {
-      "close": 53.16,
-      "close_time_et": "2026-11-25 15:59:58 EST",
+      "close": 53.15,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CIHKY": {
-      "close": 33.69,
-      "close_time_et": "2026-11-25 13:33:57 EST",
+      "close": 33.7,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "RYCEY": {
-      "close": 16.79,
-      "close_time_et": "2026-11-25 15:59:41 EST",
+      "close": 16.76,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "HESAY": {
       "close": 139.86,
-      "close_time_et": "2026-11-25 15:59:06 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16668,8 +16610,8 @@
       "news": []
     },
     "NTTYY": {
-      "close": 26.37,
-      "close_time_et": "2026-11-25 15:17:47 EST",
+      "close": 26.36,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16680,8 +16622,8 @@
       "news": []
     },
     "XIACY": {
-      "close": 17.17,
-      "close_time_et": "2026-11-25 15:55:35 EST",
+      "close": 17.22,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16692,8 +16634,8 @@
       "news": []
     },
     "GLNCY": {
-      "close": 11.68,
-      "close_time_et": "2026-11-25 15:59:53 EST",
+      "close": 11.76,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16716,20 +16658,20 @@
       "news": []
     },
     "PNGAY": {
-      "close": 12.94,
-      "close_time_et": "2026-11-25 15:55:58 EST",
+      "close": 12.92,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CSUAY": {
-      "close": 20.4,
-      "close_time_et": "2026-11-25 15:49:43 EST",
+      "close": 20.62,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CFRUY": {
-      "close": 20.71,
-      "close_time_et": "2026-11-25 15:59:04 EST",
+      "close": 20.67,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16741,7 +16683,7 @@
     },
     "ITOCY": {
       "close": 14.24,
-      "close_time_et": "2026-11-25 15:55:24 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16753,7 +16695,7 @@
     },
     "AAGIY": {
       "close": 38.07,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16764,7 +16706,7 @@
       "news": []
     },
     "BYDDY": {
-      "close": 7.6,
+      "close": 7.62,
       "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
@@ -16777,12 +16719,12 @@
     },
     "MITSY": {
       "close": 584.8,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "LNVGY": {
-      "close": 42.81,
+      "close": 42.42,
       "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
@@ -16794,8 +16736,8 @@
       "news": []
     },
     "NTDOY": {
-      "close": 14.2,
-      "close_time_et": "2026-11-25 16:00:24 EST",
+      "close": 14.27,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16806,8 +16748,8 @@
       "news": []
     },
     "DBOEY": {
-      "close": 34.48,
-      "close_time_et": "2026-11-25 15:59:52 EST",
+      "close": 34.45,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16842,32 +16784,32 @@
       "news": []
     },
     "IFNNY": {
-      "close": 47.3,
-      "close_time_et": "2026-11-25 15:57:40 EST",
+      "close": 47.33,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "JAPAY": {
       "close": 17.52,
-      "close_time_et": "2026-11-25 15:53:56 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SOBKY": {
       "close": 15.0,
-      "close_time_et": "2026-11-25 15:57:24 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "KDDIY": {
-      "close": 17.72,
-      "close_time_et": "2026-11-25 15:37:54 EST",
+      "close": 17.7,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CHGCY": {
       "close": 23.52,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16878,8 +16820,8 @@
       "news": []
     },
     "SHECY": {
-      "close": 17.19,
-      "close_time_et": "2026-11-25 15:55:45 EST",
+      "close": 17.23,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16890,8 +16832,8 @@
       "news": []
     },
     "MIELY": {
-      "close": 56.68,
-      "close_time_et": "2026-11-25 15:59:25 EST",
+      "close": 56.73,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16902,20 +16844,20 @@
       "news": []
     },
     "HKXCY": {
-      "close": 44.73,
-      "close_time_et": "2026-11-25 15:59:27 EST",
+      "close": 44.7,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "KMTUY": {
       "close": 35.71,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "RNECY": {
       "close": 7.66,
-      "close_time_et": "2026-11-25 15:59:25 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16933,7 +16875,7 @@
     },
     "SUHJY": {
       "close": 13.82,
-      "close_time_et": "2026-11-25 15:59:24 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -16981,37 +16923,37 @@
     },
     "BAYRY": {
       "close": 14.08,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SSUMY": {
-      "close": 9.73,
-      "close_time_et": "2026-11-25 15:50:13 EST",
+      "close": 9.77,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "BASFY": {
-      "close": 13.67,
-      "close_time_et": "2026-11-25 15:34:59 EST",
+      "close": 13.68,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "HOCPY": {
       "close": 149.96,
-      "close_time_et": "2026-11-25 15:55:07 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SWRAY": {
-      "close": 13.83,
-      "close_time_et": "2026-11-25 16:00:01 EST",
+      "close": 13.81,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "FJTSY": {
-      "close": 21.8,
-      "close_time_et": "2026-11-25 15:50:36 EST",
+      "close": 21.83,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17022,8 +16964,8 @@
       "news": []
     },
     "VWAGY": {
-      "close": 7.14,
-      "close_time_et": "2026-11-25 15:57:27 EST",
+      "close": 7.15,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17035,25 +16977,25 @@
     },
     "TSCDY": {
       "close": 21.71,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SVNDY": {
-      "close": 13.93,
-      "close_time_et": "2026-11-25 15:54:42 EST",
+      "close": 13.88,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "AVVIY": {
-      "close": 19.79,
-      "close_time_et": "2026-11-25 15:50:50 EST",
+      "close": 19.75,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "ADDYY": {
-      "close": 95.01,
-      "close_time_et": "2026-11-25 15:55:19 EST",
+      "close": 95.16,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17172,38 +17114,38 @@
       "news": []
     },
     "OTSKY": {
-      "close": 41.22,
-      "close_time_et": "2026-11-25 13:38:08 EST",
+      "close": 41.14,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "DKILY": {
       "close": 15.4,
-      "close_time_et": "2026-11-25 15:57:08 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "TTDKY": {
-      "close": 13.56,
-      "close_time_et": "2026-11-25 15:53:05 EST",
+      "close": 13.58,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "FANUY": {
       "close": 16.14,
-      "close_time_et": "2026-11-25 15:59:44 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "DSNKY": {
-      "close": 18.27,
-      "close_time_et": "2026-11-25 15:52:35 EST",
+      "close": 18.28,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "TTNDY": {
       "close": 85.91,
-      "close_time_et": "2026-11-25 15:55:48 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17214,8 +17156,8 @@
       "news": []
     },
     "DNZOY": {
-      "close": 12.28,
-      "close_time_et": "2026-11-25 15:50:12 EST",
+      "close": 12.3,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17232,32 +17174,32 @@
       "news": []
     },
     "BRDCY": {
-      "close": 13.76,
-      "close_time_et": "2026-11-25 15:59:06 EST",
+      "close": 13.78,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "EJPRY": {
-      "close": 13.08,
-      "close_time_et": "2026-11-25 15:56:17 EST",
+      "close": 13.07,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CJPRY": {
-      "close": 14.18,
-      "close_time_et": "2026-11-25 15:53:30 EST",
+      "close": 14.16,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "LSRCY": {
-      "close": 37.82,
-      "close_time_et": "2026-11-25 15:59:33 EST",
+      "close": 37.84,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "TRUMY": {
       "close": 16.83,
-      "close_time_et": "2026-11-25 15:46:27 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17407,44 +17349,44 @@
       "news": []
     },
     "ALPMY": {
-      "close": 18.56,
-      "close_time_et": "2026-11-25 13:45:58 EST",
+      "close": 18.52,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "MITEY": {
-      "close": 26.28,
-      "close_time_et": "2026-11-25 15:57:11 EST",
+      "close": 26.27,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SZKMY": {
-      "close": 56.6,
-      "close_time_et": "2026-11-25 13:46:32 EST",
+      "close": 56.7,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SMCAY": {
       "close": 17.7,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "FUJIY": {
       "close": 12.25,
-      "close_time_et": "2026-11-25 15:59:59 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "IMBBY": {
       "close": 39.88,
-      "close_time_et": "2026-11-25 15:59:08 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CLPHY": {
       "close": 10.32,
-      "close_time_et": "2026-11-25 15:55:13 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17455,32 +17397,32 @@
       "news": []
     },
     "JPXGY": {
-      "close": 13.46,
-      "close_time_et": "2026-11-25 15:50:16 EST",
+      "close": 13.5,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CJEWY": {
       "close": 15.8,
-      "close_time_et": "2026-11-24 16:00:00 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "KNBWY": {
-      "close": 20.09,
-      "close_time_et": "2026-11-25 14:35:05 EST",
+      "close": 20.15,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SYIEY": {
-      "close": 26.62,
-      "close_time_et": "2026-11-25 13:19:04 EST",
+      "close": 26.6,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "RYKKY": {
-      "close": 16.29,
-      "close_time_et": "2026-11-25 10:06:08 EST",
+      "close": 16.06,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17612,37 +17554,37 @@
     },
     "KAOOY": {
       "close": 8.6,
-      "close_time_et": "2026-11-25 15:53:23 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "KUBTY": {
-      "close": 75.01,
-      "close_time_et": "2026-11-25 15:51:45 EST",
+      "close": 74.97,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "GXYYY": {
-      "close": 21.02,
-      "close_time_et": "2026-11-25 15:51:15 EST",
+      "close": 21.14,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SOMLY": {
-      "close": 11.82,
-      "close_time_et": "2026-11-25 15:33:25 EST",
+      "close": 11.81,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SGIOY": {
-      "close": 10.22,
-      "close_time_et": "2026-11-25 15:30:08 EST",
+      "close": 10.24,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "YZCAY": {
       "close": 12.99,
-      "close_time_et": "2026-11-24 16:00:00 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -17779,26 +17721,26 @@
       "news": []
     },
     "SKHSY": {
-      "close": 22.17,
-      "close_time_et": "2026-11-25 15:30:29 EST",
+      "close": 22.19,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "NDEKY": {
       "close": 22.24,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "AHKSY": {
-      "close": 19.21,
-      "close_time_et": "2026-11-25 15:51:14 EST",
+      "close": 19.2,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SCHYY": {
       "close": 13.16,
-      "close_time_et": "2026-11-25 15:54:11 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -18880,116 +18822,116 @@
       "news": []
     },
     "UNICY": {
-      "close": 3.51,
-      "close_time_et": "2026-11-25 14:36:50 EST",
+      "close": 3.49,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "WHGLY": {
-      "close": 17.65,
-      "close_time_et": "2026-11-25 15:50:17 EST",
+      "close": 17.66,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SMNNY": {
-      "close": 13.45,
-      "close_time_et": "2026-11-25 15:32:08 EST",
+      "close": 13.48,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SSDOY": {
-      "close": 27.47,
-      "close_time_et": "2026-11-25 15:57:35 EST",
+      "close": 27.45,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "STBFY": {
       "close": 17.1,
-      "close_time_et": "2026-11-25 15:51:35 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "MKTAY": {
-      "close": 33.48,
-      "close_time_et": "2026-11-25 12:35:37 EST",
+      "close": 33.74,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "JAPSY": {
-      "close": 11.25,
-      "close_time_et": "2026-11-25 13:32:15 EST",
+      "close": 11.237,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "FUJHY": {
-      "close": 8.55,
-      "close_time_et": "2026-11-25 15:50:45 EST",
+      "close": 8.58,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "TRYIY": {
-      "close": 16.86,
-      "close_time_et": "2026-11-25 15:58:51 EST",
+      "close": 16.81,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "NCLTY": {
-      "close": 11.93,
-      "close_time_et": "2026-11-25 10:01:29 EST",
+      "close": 11.94,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SHTDY": {
       "close": 10.79,
-      "close_time_et": "2026-11-25 15:55:10 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "RICOY": {
-      "close": 9.86,
-      "close_time_et": "2026-11-24 16:00:00 EST",
+      "close": 10.0,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "THKLY": {
-      "close": 13.51,
-      "close_time_et": "2026-11-24 16:00:00 EST",
+      "close": 12.98,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SNPHY": {
-      "close": 12.9,
-      "close_time_et": "2026-11-25 14:16:28 EST",
+      "close": 12.82,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SLOIF": {
       "close": 100.12,
-      "close_time_et": "2026-11-25 14:54:56 EST",
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "DNPLY": {
-      "close": 7.76,
-      "close_time_et": "2026-11-25 15:33:06 EST",
+      "close": 7.84,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "OMRNY": {
-      "close": 28.12,
-      "close_time_et": "2026-11-25 14:55:48 EST",
+      "close": 28.09,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "CRHKY": {
-      "close": 5.46,
-      "close_time_et": "2026-11-25 15:53:18 EST",
+      "close": 5.47,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
     "SSMXY": {
-      "close": 13.57,
-      "close_time_et": "2026-11-25 14:47:45 EST",
+      "close": 13.61,
+      "close_time_et": "2026-11-25 16:00:00 EST",
       "currency": "USD",
       "news": []
     },
@@ -19020,18 +18962,6 @@
     "SKUU": {
       "close": 8.48,
       "close_time_et": "2026-11-25 16:00:01 EST",
-      "currency": "USD",
-      "news": []
-    },
-    "ASTC": {
-      "close": 3.0,
-      "close_time_et": "2026-11-25 16:00:01 EST",
-      "currency": "USD",
-      "news": []
-    },
-    "WYFI": {
-      "close": 6.5,
-      "close_time_et": "2026-11-25 16:00:02 EST",
       "currency": "USD",
       "news": []
     },
@@ -19083,12 +19013,6 @@
       "currency": "USD",
       "news": []
     },
-    "XOS": {
-      "close": 1.47,
-      "close_time_et": "2026-11-25 16:00:01 EST",
-      "currency": "USD",
-      "news": []
-    },
     "HLNE": {
       "close": 85.33,
       "close_time_et": "2026-11-25 16:00:02 EST",
@@ -19102,9 +19026,9 @@
       "news": []
     },
     "NWE": {
-      "close": 84.91,
-      "close_time_et": "2026-11-13 16:00:00 EST",
-      "currency": "USD",
+      "close": null,
+      "close_time_et": null,
+      "currency": null,
       "news": []
     },
     "SKDD": {
