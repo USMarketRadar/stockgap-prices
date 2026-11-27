@@ -16194,6 +16194,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "키옥시아가 엔비디아와 SSD 기반 GPU 메모리 확장 실증을 발표하며 최대 14% 급등해 반도체주가 반등했고, 3배 레버리지 SOXL 토큰도 상승했습니다.",
+          "text_eng": "Kioxia jumped as much as 14% after announcing an Nvidia SSD-based GPU memory expansion proof of concept, lifting chip stocks and the 3x-leveraged SOXL token.",
+          "text_jpn": "キオクシアがNVIDIAとのSSD活用によるGPUメモリ拡張の実証開始を発表して一時14%急騰し、半導体株が反発しました。",
+          "text_spa": "Kioxia subió hasta un 14% tras anunciar con Nvidia una prueba de concepto para ampliar la memoria de GPU con SSD, y los chips rebotaron.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
+          "source_jpn": "Investing.com Japan",
+          "url_jpn": "https://jp.investing.com/news/stock-market-news/article-1771504",
+          "source_spa": "Investing.com España",
+          "url_spa": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508",
+          "published_at_et": null,
+          "added_at_kst": "2026-11-27 13:15:03 KST"
+        },
+        {
           "text_kor": "SOXL이 개장 전 약 14.8% 하락했다. 엔비디아 CEO 후계 구도 불확실성, Ambarella의 부진한 가이던스, 금리·관세 우려가 반도체주 매도를 키웠다.",
           "text_eng": "SOXL fell about 14.8% pre-market as Ambarella's weak outlook, Nvidia succession uncertainty and rate/tariff worries deepened the chip selloff.",
           "text_jpn": null,
@@ -19985,6 +19999,20 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "스위스 최초의 비트코인 현물 ETF가 SIX에 상장됐고, 비트코인은 미국 현물 ETF의 역대 최대 월간 순유출 속에서도 6만 달러선을 지켰습니다.",
+          "text_eng": "Switzerland's first spot Bitcoin ETF listed on SIX while Bitcoin held around $60,000 despite record monthly US spot ETF outflows.",
+          "text_jpn": "スイス初の現物ビットコインETF「BBIT」がSIXに上場しました。ビットコインは米現物ETFの過去最大の月間流出の中でも6万ドル近辺を維持しています。",
+          "text_spa": "El primer ETF spot de bitcoin de Suiza, BBIT, debutó en SIX mientras bitcoin se mantiene cerca de 60.000 dólares pese a las mayores salidas mensuales de los ETF spot de EE. UU.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611271052191251",
+          "source_jpn": "Bitcoin News Japan",
+          "url_jpn": "https://news.bitcoin.com/ja/crypto-news/suisu-hatsu-supotto-bitto-koin-etf-350btc-o-hoyu-shi-six-ni-jojo/",
+          "source_spa": "Cointelegraph en Español",
+          "url_spa": "https://cointelegraph.es/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf",
+          "published_at_et": "2026-11-26 20:52:20 EST",
+          "added_at_kst": "2026-11-27 13:15:03 KST"
+        },
         {
           "text_kor": "미국 추수감사절 휴장 속 비트코인이 6만달러대를 회복했지만 매수세는 부족하다는 분석입니다. 24시간 청산 규모는 약 7,961만달러였고 이 중 75.1%가 숏 포지션이었습니다.",
           "text_eng": "Bitcoin recovered the $60,000 level during the US Thanksgiving holiday, but buying demand remains weak. About $79.6 million of BTC positions were liquidated in 24 hours, 75.1% of them shorts.",
