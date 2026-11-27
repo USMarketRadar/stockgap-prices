@@ -19957,6 +19957,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "비트코인이 6만달러 초반대로 복귀했지만 통화 긴축 우려와 AI주 변동성으로 단기 반등 여건은 제한적이며, 공포와 탐욕 지수는 11점 '극단적 공포'입니다.",
+          "text_eng": "Bitcoin is back in the low $60,000s, but rate-tightening worries and AI-stock volatility limit the near-term rebound; the Fear & Greed index sits at 11, 'extreme fear'.",
+          "text_jpn": "ビットコインは6万ドル台前半に戻りましたが、金融引き締め懸念とAI株の変動で短期の反発余地は限定的で、恐怖と強欲指数は11の「極度の恐怖」です。",
+          "text_spa": "Bitcoin vuelve a los 60.000 dólares bajos, pero el temor a un endurecimiento monetario y la volatilidad de las acciones de IA limitan el rebote; el índice de miedo y codicia marca 11, 'miedo extremo'.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/11/27/2026112717252448757",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 04:57:00 EST",
+          "added_at_kst": "2026-11-27 18:14:11 KST"
+        },
+        {
           "text_kor": "비트코인이 6만1,500달러를 회복하며 7주 연속 하락 후 처음으로 주간 상승을 앞두고 있지만, 미국 현물 ETF에서는 11월 들어 약 53.9억 달러가 순유출됐습니다.",
           "text_eng": "Bitcoin recovered to about $61,500 and is set for its first weekly gain after seven straight losing weeks, though US spot ETFs saw roughly $5.39B of net outflows in November.",
           "text_jpn": "ビットコインは6万1,000ドル台を回復し、7週連続下落後で初の週間上昇に向かっていますが、米現物ETFは11月に約53.9億ドルの純流出となりました。",
