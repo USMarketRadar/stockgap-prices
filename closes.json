@@ -8625,7 +8625,22 @@
       "close": 154.87,
       "close_time_et": "2026-11-27 11:52:49 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "메가포천(MGRT)이 11월 27일 특별한 기업 재료 없이 15.7% 급등했으며, 유통 물량이 극히 적어 변동성이 큰 것으로 보입니다.",
+          "text_eng": "Mega Fortune (MGRT) jumped 15.7% on Nov. 27 with no company-specific catalyst, amid an extremely low float.",
+          "text_jpn": "Mega Fortune(MGRT)は11月27日、企業固有の材料なしに15.7%急騰した。浮動株が極めて少ないことが背景とみられる。",
+          "text_spa": "Mega Fortune (MGRT) subió un 15,7% el 27 de noviembre sin un catalizador específico de la compañía, con un flotante extremadamente reducido.",
+          "source": "Yahoo Finance (GuruFocus)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mega-fortune-mgrt-stock-15-171509865.html?.tsrc=rss",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 12:15:00 EST",
+          "added_at_kst": "2026-11-28 08:13:46 KST"
+        }
+      ]
     },
     "PRKS": {
       "close": 39.53,
@@ -19944,6 +19959,20 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "미국 기준금리 인상 우려와 비트코인 현물 ETF 대규모 자금 유출로 비트코인 약세가 이어지고 있습니다. 업비트 기준 8300만원선에서 거래됐습니다.",
+          "text_eng": "Bitcoin weakness continues on US rate-hike worries and heavy spot Bitcoin ETF outflows; it traded around 83 million won on Upbit.",
+          "text_jpn": "米利上げ懸念とビットコイン現物ETFからの大規模な資金流出で、ビットコインの軟調が続いている。アップビットでは約8300万ウォン前後で取引された。",
+          "text_spa": "Bitcoin sigue débil por el temor a una subida de tipos en EE. UU. y las fuertes salidas de los ETF spot; cotizó en torno a 83 millones de wones en Upbit.",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001960",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 16:20:00 EST",
+          "added_at_kst": "2026-11-28 08:13:46 KST"
+        },
         {
           "text_kor": "11월 28일 0시 기준 비트코인은 전날 대비 2.34% 하락한 59,030달러에 거래되며 암호화폐 시장 전반이 약세를 보였다. 이더리움도 2.97% 내린 1,639달러를 기록했다.",
           "text_eng": "As of 12:01 AM KST on Nov 28, Bitcoin traded at $59,030, down 2.34% on the day, with the broader crypto market weaker. Ethereum fell 2.97% to $1,639.",
