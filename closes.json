@@ -10885,7 +10885,22 @@
       "close": 51.75,
       "close_time_et": "2026-11-27 13:00:02 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "UBS가 비스타 에너지 목표주가를 80달러에서 100달러로 올리고 매수 의견을 유지했다.",
+          "text_eng": "UBS raised its Vista Energy price target from $80 to $100 and kept a Buy rating.",
+          "text_jpn": "UBSはビスタ・エナジーの目標株価を80ドルから100ドルに引き上げ、「買い」判断を維持した。",
+          "text_spa": "UBS elevó el precio objetivo de Vista Energy de 80 a 100 dólares y mantuvo la recomendación de compra.",
+          "source": "MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-vista-energy-nyse-vist-stock-price-target-raised-at-ubs-group-2026-11-18/",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": null,
+          "added_at_kst": "2026-11-28 07:11:49 KST"
+        }
+      ]
     },
     "ZG": {
       "close": 31.26,
