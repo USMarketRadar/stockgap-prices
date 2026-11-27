@@ -1885,6 +1885,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "엔비디아 주가가 블랙프라이데이 단축 거래를 앞두고 장전에서 3.9% 상승했다. AI·반도체주 전반의 저가 매수 반등이 이어졌지만 동남아 4개국 서버 출하 중단은 부담이다.",
+          "text_eng": "Nvidia rose 3.9% in pre-market ahead of the shortened Black Friday session as AI and chip stocks rebounded, though the halt of server shipments to four Southeast Asian countries remains a weight.",
+          "text_jpn": "ブラックフライデーの短縮取引を前に、エヌビディア株はプレマーケットで3.9%上昇した。AI・半導体株全般に押し目買いが入ったが、東南アジア4カ国へのサーバー出荷停止は重荷となっている。",
+          "text_spa": "Nvidia subió un 3,9% en el premercado antes de la sesión reducida del Black Friday, con un rebote de las acciones de IA y chips, aunque la suspensión de envíos de servidores a cuatro países del sudeste asiático sigue pesando.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2191786",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 05:07:00 EST",
+          "added_at_kst": "2026-11-27 22:14:59 KST"
+        },
+        {
           "text_kor": "엔비디아가 델·슈퍼마이크로 등 제조 파트너에 말레이시아·싱가포르·태국·인도네시아로 향하는 AI 서버 출하를 중단하라고 지시했다고 파이낸셜타임스가 보도했습니다. 중국 기업의 우회 접근을 막으려는 미국 수출통제 강화에 따른 조치이며, 중단이 일시적인지는 아직 불분명합니다.",
           "text_eng": "Nvidia told manufacturing partners including Dell and Supermicro to stop shipping AI servers to Malaysia, Singapore, Thailand and Indonesia, the Financial Times reported. The halt follows tighter U.S. export controls aimed at blocking Chinese firms from accessing Nvidia chips via Southeast Asian cloud providers, and it is unclear whether the pause is temporary.",
           "text_jpn": "米半導体大手エヌビディアは製造パートナー各社に対し、マレーシア、シンガポール、タイ、インドネシア向けのサーバー出荷を停止するよう伝えたと、英紙フィナンシャル・タイムズが事情に詳しい3人の話として報じた。出荷停止が一時的なものかどうかは不明で、エヌビディアとパートナー各社は米国の新たな輸出規制への対応を模索している。",
@@ -19913,6 +19927,20 @@
           "url_spa": null,
           "published_at_et": "2026-11-27 04:57:00 EST",
           "added_at_kst": "2026-11-27 18:14:11 KST"
+        },
+        {
+          "text_kor": "비트코인이 6만1천 달러를 넘어서며 나스닥 선물 반등과 함께 2% 올랐다. 7주 연속 하락 뒤 첫 주간 상승이 예상된다.",
+          "text_eng": "Bitcoin rose 2% above $61,000 alongside a Nasdaq futures rebound and is on track for its first weekly gain after seven straight weekly declines.",
+          "text_jpn": "ビットコインはナスダック先物の反発とともに2%上昇し6万1000ドルを超えた。7週連続の下落後、初の週間上昇となる見通し。",
+          "text_spa": "Bitcoin subió un 2% por encima de los 61.000 dólares junto con el rebote de los futuros del Nasdaq y va camino de su primera subida semanal tras siete caídas seguidas.",
+          "source": "코인데스크 코리아",
+          "url": "https://www.coindesk.com/ko/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 04:49:00 EST",
+          "added_at_kst": "2026-11-27 22:14:59 KST"
         },
         {
           "text_kor": "비트코인이 6만1,500달러를 회복하며 7주 연속 하락 후 처음으로 주간 상승을 앞두고 있지만, 미국 현물 ETF에서는 11월 들어 약 53.9억 달러가 순유출됐습니다.",
