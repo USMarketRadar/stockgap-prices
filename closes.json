@@ -19957,6 +19957,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "비트코인이 6만1,500달러를 회복하며 7주 연속 하락 후 처음으로 주간 상승을 앞두고 있지만, 미국 현물 ETF에서는 11월 들어 약 53.9억 달러가 순유출됐습니다.",
+          "text_eng": "Bitcoin recovered to about $61,500 and is set for its first weekly gain after seven straight losing weeks, though US spot ETFs saw roughly $5.39B of net outflows in November.",
+          "text_jpn": "ビットコインは6万1,000ドル台を回復し、7週連続下落後で初の週間上昇に向かっていますが、米現物ETFは11月に約53.9億ドルの純流出となりました。",
+          "text_spa": "Bitcoin se recupera hasta unos 61.500 dólares y apunta a su primera semana positiva tras siete a la baja, aunque los ETF spot de EE. UU. acumulan unos 5.390 millones de dólares de salidas en noviembre.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2191637",
+          "source_jpn": "Yahoo!ニュース (NADA NEWS)",
+          "url_jpn": "https://news.yahoo.co.jp/articles/262c5390ae21d9d14bf9e54a030de283c2a78088",
+          "source_spa": "Investing.com España",
+          "url_spa": "https://es.investing.com/news/cryptocurrency-news/bitcoin-se-recupera-hasta-los-61500-dolares-y-apunta-a-su-primera-semana-positiva-en-8-3944969",
+          "published_at_et": "2026-11-27 00:52:00 EST",
+          "added_at_kst": "2026-11-27 17:13:51 KST"
+        },
+        {
           "text_kor": "스위스 최초의 비트코인 현물 ETF가 SIX에 상장됐고, 비트코인은 미국 현물 ETF의 역대 최대 월간 순유출 속에서도 6만 달러선을 지켰습니다.",
           "text_eng": "Switzerland's first spot Bitcoin ETF listed on SIX while Bitcoin held around $60,000 despite record monthly US spot ETF outflows.",
           "text_jpn": "スイス初の現物ビットコインETF「BBIT」がSIXに上場しました。ビットコインは米現物ETFの過去最大の月間流出の中でも6万ドル近辺を維持しています。",
