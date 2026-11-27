@@ -19958,6 +19958,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "11월 28일 0시 기준 비트코인은 전날 대비 2.34% 하락한 59,030달러에 거래되며 암호화폐 시장 전반이 약세를 보였다. 이더리움도 2.97% 내린 1,639달러를 기록했다.",
+          "text_eng": "As of 12:01 AM KST on Nov 28, Bitcoin traded at $59,030, down 2.34% on the day, with the broader crypto market weaker. Ethereum fell 2.97% to $1,639.",
+          "text_jpn": "11月28日午前0時(KST)時点でビットコインは前日比2.34%安の59,030ドルで取引され、暗号資産市場全体が軟調だった。イーサリアムも2.97%安の1,639ドル。",
+          "text_spa": "A las 00:01 KST del 28 de noviembre, Bitcoin cotizaba a 59.030 dólares, un 2,34% menos, con el mercado cripto en general a la baja. Ethereum cayó un 2,97% hasta 1.639 dólares.",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/briefing/445540",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 10:04:00 EST",
+          "added_at_kst": "2026-11-28 04:07:48 KST"
+        },
+        {
           "text_kor": "비트코인이 27일 오후 11시 40분 기준 6만294달러로 한 시간 새 1.85% 하락했습니다. 같은 시간 롱 포지션 청산액은 1,902만 달러로 숏(25만 달러)을 크게 웃돌았습니다.",
           "text_eng": "Bitcoin fell 1.85% in an hour to $60,294 as of 11:40 p.m. KST on Nov. 27. Long liquidations of $19.02 million far exceeded shorts at $250,000 over the same hour.",
           "text_jpn": "ビットコインは27日午後11時40分(韓国時間)時点で1時間に1.85%下落し6万294ドルとなった。同時間帯のロング清算額は1902万ドルで、ショートの25万ドルを大きく上回った。",
