@@ -2354,6 +2354,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "테슬라가 독일 연방카르텔청에 제출한 기업결합 신고서를 통해 독일 정밀가공장비업체 EMAG 인수를 추진하는 사실이 공개되며 주가가 장중 5% 안팎 올랐습니다. EMAG는 옵티머스 로봇 구동장치 생산에 쓰이는 기어 절삭 장비를 만듭니다.",
+          "text_eng": "Tesla shares rose about 5% intraday after a filing with Germany's Federal Cartel Office revealed its bid to acquire precision-machining maker EMAG, whose gear-cutting equipment is used in humanoid robot actuators like those for Optimus.",
+          "text_jpn": "テスラはドイツ連邦カルテル庁への企業結合届出で、精密加工装置メーカーEMAGの買収を進めていることが明らかになり、株価が日中5%前後上昇した。EMAGはオプティマス向けなどヒューマノイドロボットの駆動装置に使うギア切削装置を手がける。",
+          "text_spa": "Las acciones de Tesla subieron en torno a un 5% intradía después de que una notificación ante la Oficina Federal de Cárteles de Alemania revelara su intento de adquirir al fabricante de maquinaria de precisión EMAG, cuyos equipos de tallado de engranajes se usan en actuadores de robots humanoides como Optimus.",
+          "source": "인베스팅닷컴",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2191975",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 10:17:00 EST",
+          "added_at_kst": "2026-11-28 03:15:50 KST"
+        },
+        {
           "text_kor": "EU가 테슬라의 주행 보조 소프트웨어(FSD) 승인 표결을 12월 15일로 연기하면서 테슬라 주가가 1.18% 하락한 380.14달러로 마감했습니다. 현재 12개국이 승인해 EU 인구의 약 29%에 그칩니다.",
           "text_eng": "Tesla fell 1.18% to close at $380.14 after the EU delayed its vote on authorizing Tesla's assisted-driving software to Dec. 15. So far 12 countries have approved it, covering only about 29% of the EU population.",
           "text_jpn": "EUがテスラの運転支援ソフトの承認採決を12月15日に延期したため、テスラ株は1.18%安の380.14ドルで引けました。これまでに承認したのは12カ国で、EU人口の約29%にとどまります。",
@@ -16138,6 +16152,20 @@
           "added_at_kst": "2026-11-27 13:15:03 KST"
         },
         {
+          "text_kor": "JP모건은 AI주 매도세가 1단계 막바지에 접어들었을 수 있다고 진단했고, 11월 27일 반도체주는 강세 출발 후 상승폭을 일부 반납하며 샌디스크 10%, SK하이닉스 4%, 마이크론 약 4% 올랐습니다. 필라델피아 반도체지수는 월요일 급등분의 약 70%를 이틀 만에 반납한 상태입니다.",
+          "text_eng": "JPMorgan said the AI-stock selloff may be nearing the end of its first phase; on Nov. 27 chip stocks opened strong then gave back some gains, with SanDisk up about 10% and SK Hynix and Micron about 4%. The SOX index had surrendered roughly 70% of Monday's surge in two sessions.",
+          "text_jpn": "JPモルガンはAI株の売りが第1段階の終盤に近づいている可能性があると指摘した。11月27日の半導体株は強く始まった後に上げ幅を縮小し、サンディスクが約10%、SKハイニックスとマイクロンが約4%上昇した。フィラデルフィア半導体指数は月曜の急騰分の約70%を2日間で失っていた。",
+          "text_spa": "JPMorgan señaló que la venta de acciones de IA podría estar cerca del final de su primera fase; el 27 de noviembre los chips abrieron al alza y luego recortaron ganancias, con SanDisk subiendo cerca de un 10% y SK Hynix y Micron en torno a un 4%. El índice SOX había devuelto aproximadamente el 70% del repunte del lunes en dos sesiones.",
+          "source": "트레이딩키",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262325532-chip-stocks-rally-sandisk-up-over-10pct-jpmorgan-sees-first-phase-of-ai-selloff-nearing-end-tradingkey",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 10:34:07 EST",
+          "added_at_kst": "2026-11-28 03:15:50 KST"
+        },
+        {
           "text_kor": "추수감사절 연휴 후 첫 거래일인 27일 개장 전 엔비디아가 3% 가까이, 마이크론이 오르고 샌디스크가 약 10% 급등하는 등 반도체주가 일제히 반등했습니다. AI 인프라 수익성과 신용 위험, 연준 추가 인상 전망은 여전히 부담 요인입니다.",
           "text_eng": "Chip stocks rallied in premarket trading on Nov. 27, the first session after Thanksgiving: Nvidia rose nearly 3%, Micron gained and SanDisk jumped about 10%. Worries over AI-infrastructure returns, credit risk and a possible Fed hike persist.",
           "text_jpn": "感謝祭明け最初の取引日となった27日のプレマーケットで、エヌビディアが3%近く上昇し、マイクロンも上昇、サンディスクは約10%急騰するなど半導体株が一斉に反発しました。AIインフラの収益性や信用リスク、FRBの追加利上げ観測は引き続き重荷です。",
@@ -19929,6 +19957,34 @@
       "close_time_et": null,
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "비트코인이 27일 오후 11시 40분 기준 6만294달러로 한 시간 새 1.85% 하락했습니다. 같은 시간 롱 포지션 청산액은 1,902만 달러로 숏(25만 달러)을 크게 웃돌았습니다.",
+          "text_eng": "Bitcoin fell 1.85% in an hour to $60,294 as of 11:40 p.m. KST on Nov. 27. Long liquidations of $19.02 million far exceeded shorts at $250,000 over the same hour.",
+          "text_jpn": "ビットコインは27日午後11時40分(韓国時間)時点で1時間に1.85%下落し6万294ドルとなった。同時間帯のロング清算額は1902万ドルで、ショートの25万ドルを大きく上回った。",
+          "text_spa": "Bitcoin cayó un 1,85% en una hora hasta 60.294 dólares a las 23:40 (hora de Corea) del 27 de noviembre. Las liquidaciones de largos sumaron 19,02 millones de dólares, muy por encima de los 250.000 dólares de cortos en esa hora.",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/breaking/445531",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 09:43:00 EST",
+          "added_at_kst": "2026-11-28 03:15:50 KST"
+        },
+        {
+          "text_kor": "JP모건은 스트래티지의 기업가치 대비 보유 비트코인 가치 비율이 0.88배로 사상 최저를 기록한 것을 투자자 항복 신호로 해석했습니다. 현물 ETF 자금 유출 속도는 5~6월보다 빠르고, 채굴 원가 약 8만6천 달러가 시장가를 크게 웃돕니다.",
+          "text_eng": "JPMorgan read Strategy's record-low 0.88x ratio of enterprise value to bitcoin holdings as a capitulation signal. Spot ETF outflows are running faster than in May-June, and its estimated ~$86,000 mining cost sits far above the market price.",
+          "text_jpn": "JPモルガンは、ストラテジーの企業価値がビットコイン保有額に対して過去最低の0.88倍まで低下したことを投げ売りのシグナルと分析した。現物ETFの資金流出は5〜6月より速く、推定採掘コスト約8万6000ドルは市場価格を大きく上回る。",
+          "text_spa": "JPMorgan interpretó como señal de capitulación que la relación entre el valor empresarial de Strategy y sus bitcoins cayera a un mínimo histórico de 0,88x. Las salidas de los ETF al contado van más rápido que en mayo-junio y su coste de minado estimado, unos 86.000 dólares, supera con creces el precio de mercado.",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1171371",
+          "source_jpn": "イーデイリー",
+          "url_jpn": "https://ja.edaily.co.kr/news/eda202611275057/",
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 07:30:00 EST",
+          "added_at_kst": "2026-11-28 03:15:50 KST"
+        },
         {
           "text_kor": "비트코인이 UTC 자정 이후 1.8% 올라 약 6만1,600달러에 거래되며 7주 연속 주간 하락을 끝낼 전망입니다. 11월에는 약 20% 하락해 6월 이후 최대 월간 낙폭을 기록 중입니다.",
           "text_eng": "Bitcoin is up 1.8% since UTC midnight to about $61,600 and is on course to end a seven-week weekly losing streak. It is down about 20% in November, its biggest monthly drop since June.",
