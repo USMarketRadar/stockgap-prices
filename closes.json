@@ -1,7 +1,7 @@
 {
   "close_date": "2026-11-26",
   "source": "stock_gap_finance_v7_quote.regularMarketPrice",
-  "fetched_at_kst": "2026-11-27T10:07:30.175131+09:00",
+  "fetched_at_kst": "2026-11-27T11:06:26.959971+09:00",
   "quotes": {
     "CVCO": {
       "close": 694.9,
@@ -13949,22 +13949,7 @@
       "close": 271.72,
       "close_time_et": "2026-11-25 16:00:02 EST",
       "currency": "USD",
-      "news": [
-        {
-          "text_kor": "1분기 실적은 예상을 웃돌았지만 연간 매출 가이던스를 하향하고 메일침프를 약 36.8억 달러에 매각한다고 발표했다. 시간외 주가는 약 12~14% 하락했고, 토큰은 정규장 종가 310.02달러보다 9.36% 낮다.",
-          "text_eng": "Q1 results beat estimates, but the company cut full-year revenue guidance and announced the sale of Mailchimp for about $3.68 billion. Shares fell roughly 12–14% after hours; the token is 9.36% below the $310.02 regular close.",
-          "text_jpn": null,
-          "text_spa": null,
-          "source": "Source",
-          "url": "https://www.benzinga.com/markets/earnings/26/11/63460648/intuit-stock-tumbles-on-q1-earnings-soft-outlook-mailchimp-divestiture",
-          "source_jpn": null,
-          "url_jpn": null,
-          "source_spa": null,
-          "url_spa": null,
-          "published_at_et": "2026-11-19 16:24:00 EST",
-          "added_at_kst": "2026-11-20 10:11:24 KST"
-        }
-      ]
+      "news": []
     },
     "DKNG": {
       "close": 17.65,
@@ -17920,20 +17905,6 @@
           "url_spa": null,
           "published_at_et": null,
           "added_at_kst": "2026-11-24 10:10:18 KST"
-        },
-        {
-          "text_kor": "기초자산 샌디스크는 데이터센터 NAND 매출 1,700% 성장 공개 후 상승했고, 8대1 액면분할이 11월 19일 장 마감 후 발효돼 11월 20일부터 분할 조정 거래가 시작된다.",
-          "text_eng": "Underlying Sandisk rose after disclosing 1,700% data-center NAND revenue growth, and its 8-for-1 split took effect after the Nov. 19 close, with split-adjusted trading from Nov. 20.",
-          "text_jpn": null,
-          "text_spa": null,
-          "source": "Source",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-5039425",
-          "source_jpn": null,
-          "url_jpn": null,
-          "source_spa": null,
-          "url_spa": null,
-          "published_at_et": null,
-          "added_at_kst": "2026-11-20 10:11:24 KST"
         },
         {
           "text_kor": "트렌드포스가 내년 1분기 낸드 계약가 하락을 전망하면서 샌디스크 약세 우려가 이어졌다. 토큰은 정규장 종가보다 13.62% 낮다.",
