@@ -2716,6 +2716,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "마이크론 주가가 블랙프라이데이 개장 전 거래에서 6% 급등했습니다. AI·기술주 투자심리 회복과 저가 매수세로 반도체주가 동반 반등했습니다.",
+          "text_eng": "Micron shares jumped 6% in Black Friday pre-market trading as AI and tech sentiment recovered and investors bought the dip in chip stocks.",
+          "text_jpn": "マイクロンの株価はブラックフライデーの寄り付き前取引で6%急騰しました。AI・ハイテク株の心理改善と押し目買いで半導体株が揃って反発しています。",
+          "text_spa": "Las acciones de Micron subieron un 6% en la preapertura del Black Friday al recuperarse el ánimo hacia la IA y la tecnología y entrar compras de oportunidad en los chips.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2191793",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 05:12:00 EST",
+          "added_at_kst": "2026-11-27 21:09:15 KST"
+        },
+        {
           "text_kor": "마이크론이 25일 4.5% 하락한 601.3달러에 마감하며 이틀 새 15% 급락했고, 6월 고점 대비로는 약 50.5% 하락했습니다. BNP파리바가 투자의견을 아웃퍼폼에서 중립으로 내리고 목표가를 1,700달러에서 775달러로 낮추면서, D램·낸드 수급 균형 시점이 2027년 중반으로 앞당겨질 수 있다고 전망한 점이 부담이 됐습니다.",
           "text_eng": "Micron closed down 4.5% at $601.30 on Nov. 25, falling 15% over two days and about 50.5% below its June closing high. BNP Paribas cut its rating to Neutral from Outperform and its price target to $775 from $1,700, saying DRAM and NAND supply-demand balance could come as soon as mid-2027.",
           "text_jpn": "マイクロンは25日、4.5%安の601.3ドルで取引を終え、2日間で15%下落し、6月の終値高値からは約50.5%下落した。BNPパリバが投資判断をアウトパフォームから中立に引き下げ、目標株価を1,700ドルから775ドルに下げ、DRAM・NANDの需給均衡が2027年半ばに前倒しされる可能性があると指摘したことが重荷となった。",
