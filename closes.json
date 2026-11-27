@@ -2429,7 +2429,22 @@
       "close": 633.93,
       "close_time_et": "2026-11-25 16:00:01 EST",
       "currency": "USD",
-      "news": []
+      "news": [
+        {
+          "text_kor": "블랙프라이데이 장전 거래에서 QQQ가 2.4% 상승한 649.22달러를 기록했다. 마벨 6.7%, AMD 5.1% 등 반도체주가 반등을 주도했고 시장은 오후 1시(ET) 조기 마감한다.",
+          "text_eng": "QQQ rose 2.4% to $649.22 in Black Friday premarket trading, led by chipmakers such as Marvell (+6.7%) and AMD (+5.1%), ahead of a 1 p.m. ET early close.",
+          "text_jpn": "休場明けの米株先物はAI関連株の買いで上昇し、エヌビディアが約2.5%高、AMDが4.5%高、マイクロンが6%高となった。この日は短縮取引で、市場は午後1時(米東部時間)に終了する。",
+          "text_spa": "QQQ subió un 2,4% hasta 649,22 dólares en el premercado del Viernes Negro, liderado por chips como Marvell (+6,7%) y AMD (+5,1%), antes del cierre anticipado a la 1 p.m. (ET).",
+          "source": "Wall Street Observer",
+          "url": "https://wallstreetobserver.com/articles/stock-market-black-friday-chips",
+          "source_jpn": "みんかぶ",
+          "url_jpn": "https://fx.minkabu.jp/news/385633",
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 08:10:00 EST",
+          "added_at_kst": "2026-11-28 01:12:43 KST"
+        }
+      ]
     },
     "AXTI": {
       "close": 31.98,
@@ -2448,6 +2463,20 @@
       "close_time_et": "2026-11-25 16:00:02 EST",
       "currency": "USD",
       "news": [
+        {
+          "text_kor": "샌디스크가 블랙프라이데이 단축장 초반 6.2% 급등했다. RSI 약 27의 과매도와 PER 약 4.7배의 낮은 밸류에이션, 키옥시아의 엔비디아 연계 SSD 검증 소식이 반등 배경으로 꼽혔다.",
+          "text_eng": "Sandisk jumped 6.2% early in the Black Friday shortened session, helped by an RSI near 27 (oversold), a trailing P/E of about 4.7x and Kioxia's Nvidia-linked SSD proof of concept.",
+          "text_jpn": "サンディスク株はブラックフライデーの短縮取引序盤に6.2%急伸した。RSI約27の売られ過ぎ、PER約4.7倍の割安感、キオクシアのエヌビディア連携SSD検証が背景とされた。",
+          "text_spa": "Sandisk se disparó un 6,2% al inicio de la sesión reducida del Viernes Negro, impulsada por un RSI cercano a 27 (sobreventa), un PER de unas 4,7 veces y la prueba de concepto de Kioxia con SSD y Nvidia.",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2191956",
+          "source_jpn": "Investing.com 日本語",
+          "url_jpn": "https://jp.investing.com/news/stock-market-news/article-93CH-1772277",
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 09:44:00 EST",
+          "added_at_kst": "2026-11-28 01:12:43 KST"
+        },
         {
           "text_kor": "트렌드포스가 내년 1분기 낸드 가격이 최대 5% 하락할 것으로 전망하면서 샌디스크 주가가 급락했다.",
           "text_eng": "Sandisk dropped after TrendForce forecast NAND prices to fall up to 5% in Q1 2027.",
@@ -19983,6 +20012,20 @@
           "url_spa": null,
           "published_at_et": "2026-11-27 04:49:00 EST",
           "added_at_kst": "2026-11-27 22:14:59 KST"
+        },
+        {
+          "text_kor": "27일 비트코인은 6만1654달러로 올랐지만 공포·탐욕지수는 11점으로 '극도의 공포'에 머물렀다. 미국 현물 ETF는 7거래일 연속 순유출됐고 약 70억달러 옵션이 만기를 맞았다.",
+          "text_eng": "Bitcoin rose to $61,654 on Nov. 27, but the Fear & Greed Index stayed at 11 (extreme fear). US spot ETFs saw a seventh straight session of outflows as about $7 billion of options expired.",
+          "text_jpn": "ビットコインは27日に6万1654ドルへ上昇したが、恐怖・強欲指数は11の「極度の恐怖」にとどまった。米国の現物ETFは7営業日連続で純流出となり、約70億ドルのオプションが満期を迎えた。",
+          "text_spa": "Bitcoin subió a 61.654 dólares el 27 de noviembre, pero el índice de miedo y codicia se mantuvo en 11 (miedo extremo). Los ETF spot de EE. UU. sumaron siete sesiones seguidas de salidas y vencieron unos 7.000 millones de dólares en opciones.",
+          "source": "블록미디어",
+          "url": "https://www.blockmedia.co.kr/archives/1171495",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 04:00:00 EST",
+          "added_at_kst": "2026-11-28 01:12:43 KST"
         },
         {
           "text_kor": "비트코인이 6만1,500달러를 회복하며 7주 연속 하락 후 처음으로 주간 상승을 앞두고 있지만, 미국 현물 ETF에서는 11월 들어 약 53.9억 달러가 순유출됐습니다.",
