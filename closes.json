@@ -1,7 +1,7 @@
 {
   "close_date": "2026-11-27",
   "source": "stock_gap_finance_v7_quote.regularMarketPrice",
-  "fetched_at_kst": "2026-11-28T11:14:15.348237+09:00",
+  "fetched_at_kst": "2026-11-28T12:15:00.508890+09:00",
   "quotes": {
     "CVCO": {
       "close": 710.08,
