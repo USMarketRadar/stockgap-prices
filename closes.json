@@ -1,7 +1,7 @@
 {
   "close_date": "2026-11-27",
   "source": "stock_gap_finance_v7_quote.regularMarketPrice",
-  "fetched_at_kst": "2026-11-28T09:07:18.283749+09:00",
+  "fetched_at_kst": "2026-11-28T10:10:47.761290+09:00",
   "quotes": {
     "CVCO": {
       "close": 710.08,
@@ -2317,20 +2317,6 @@
           "url_spa": null,
           "published_at_et": "2026-11-20 16:33:00 EST",
           "added_at_kst": "2026-11-23 00:07:12 KST"
-        },
-        {
-          "text_kor": "20일(현지시간) 엔비디아가 SEC의 회계 처리 조사 보도 이후 14.01% 급락했고, 필라델피아반도체지수는 10.73% 폭락했다.",
-          "text_eng": "Nvidia fell 14.01% on Nov 20 after reports the SEC is examining its accounting, and the Philadelphia Semiconductor Index plunged 10.73%.",
-          "text_jpn": null,
-          "text_spa": null,
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
-          "source_jpn": null,
-          "url_jpn": null,
-          "source_spa": null,
-          "url_spa": null,
-          "published_at_et": "2026-11-20 16:04:00 EST",
-          "added_at_kst": "2026-11-21 09:08:50 KST"
         }
       ]
     },
@@ -16446,20 +16432,6 @@
           "url_spa": null,
           "published_at_et": null,
           "added_at_kst": "2026-11-21 23:13:45 KST"
-        },
-        {
-          "text_kor": "필라델피아 반도체지수가 약 10% 폭락하고 엔비디아·마이크론 등이 급락하면서 SOXL은 정규장에서 30.88달러로 마감했다. 토큰은 이 종가보다 8.06% 높다.",
-          "text_eng": "The Philadelphia Semiconductor Index fell about 10% with Nvidia and Micron sharply lower, and SOXL closed the regular session at $30.88. The token is 8.06% above that close.",
-          "text_jpn": null,
-          "text_spa": null,
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/21/2026112150002.html",
-          "source_jpn": null,
-          "url_jpn": null,
-          "source_spa": null,
-          "url_spa": null,
-          "published_at_et": "2026-11-21 01:04:16 EST",
-          "added_at_kst": "2026-11-21 10:06:18 KST"
         },
         {
           "text_kor": "SOXL이 11월 20일 하루 32% 폭락해 지난 6월 고점 대비 약 90% 하락했다. 나스닥은 주간 10% 급락했다.",
