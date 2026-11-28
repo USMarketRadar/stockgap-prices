@@ -19932,6 +19932,20 @@
       "currency": "USD",
       "news": [
         {
+          "text_kor": "28일 오전 9시 비트코인은 5만9902달러로 24시간 전보다 1.0% 하락했고, 미국 현물 ETF는 25일까지 7거래일 연속 순유출을 기록했다.",
+          "text_eng": "Bitcoin fell 1.0% over 24 hours to $59,902 at 9 a.m. KST on Nov. 28, while US spot Bitcoin ETFs logged a seventh straight session of net outflows through Nov. 25.",
+          "text_jpn": "11月28日午前9時(韓国時間)のビットコインは24時間前比1.0%安の5万9902ドルとなり、米国の現物ETFは25日まで7営業日連続の純流出となった。",
+          "text_spa": "A las 9:00 (hora de Corea) del 28 de noviembre, Bitcoin cayó un 1,0 % en 24 horas hasta 59.902 dólares, y los ETF spot de EE. UU. sumaron siete sesiones seguidas de salidas netas hasta el 25.",
+          "source": "스탠딩아웃",
+          "url": "https://www.standingout.kr/news/articleView.html?idxno=2019",
+          "source_jpn": null,
+          "url_jpn": null,
+          "source_spa": null,
+          "url_spa": null,
+          "published_at_et": "2026-11-27 20:41:29 EST",
+          "added_at_kst": "2026-11-28 11:15:28 KST"
+        },
+        {
           "text_kor": "미국 기준금리 인상 우려와 비트코인 현물 ETF 대규모 자금 유출로 비트코인 약세가 이어지고 있습니다. 업비트 기준 8300만원선에서 거래됐습니다.",
           "text_eng": "Bitcoin weakness continues on US rate-hike worries and heavy spot Bitcoin ETF outflows; it traded around 83 million won on Upbit.",
           "text_jpn": "米利上げ懸念とビットコイン現物ETFからの大規模な資金流出で、ビットコインの軟調が続いている。アップビットでは約8300万ウォン前後で取引された。",
